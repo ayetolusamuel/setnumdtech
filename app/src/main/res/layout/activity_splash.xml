@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/logo_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/my_welcome"
+            android:layout_alignStart="@+id/my_welcome"
+            android:layout_marginStart="68dp"
+            android:src="@drawable/logo_akwe_" />
+
+        <technologies.setnumd.com.setnumdtech.utils.FontText xmlns:font="http://schemas.android.com/apk/lib/com.thoughtworks.retailshop.util"
+
+            android:id="@+id/my_welcome"
+            style="@style/TextAppearance.AppCompat.Display1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/track_txt"
+            android:layout_marginBottom="94dp"
+            android:shadowColor="#000"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="1.0"
+            android:text="@string/app_name"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="20sp"
+            font:ttf_name="paranoid.ttf" />
+
+        <TextView
+            android:id="@+id/track_txt"
+            style="@style/TextAppearance.AppCompat.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/logo_img"
+            android:layout_centerVertical="true"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:shadowRadius="1.0"
+            android:text="@string/slogan"
+            android:textColor="#FFF"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+
+</FrameLayout>

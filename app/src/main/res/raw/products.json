@@ -1,0 +1,913 @@
+{
+  "products": [
+    {
+      "id": "0001",
+      "name": "HDMI-Wall-Face-Plate-Single-Panel",
+      "description": "The cable wall plate with HDMI Jack insert is a great solution for a customized installation.Wire your house cleanly and efficiently for audio / video with this dual port HDMI wall plate. You no longer have to resort to messy cables hanging out of an ugly hole in the wall. This wall plate is the perfect means for HDMI ports to remotely access HD displays or media sources.",
+      "price": "2,500.00 ",
+      "instock": "12",
+      "category": "Audio Accessories",
+      "photo": "0001.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0003",
+      "name": "GPS Car Tracker - GT02A",
+      "description": "GT02A is a Mini intelligent GPS Vehicle positioning terminal. It combines the GSM wireless communication technology and GPS positioning system technology,terminals using industrial-grade highly integrated design,intelligent power-saving and passive drift suppression,installation is simple,connect the power supply to start work immediately,wide inpute voltage range,wide applicable to all types of cars,motor cycles,electric cars,ships,etc., can provide all-weather,real-time vehicle positioning function,with global positioning service platform,you can achieve remote vehicle management",
+      "price": "13,000.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0003.png"
+    },
+    {
+      "id": "0004",
+      "name": "GPS Car Tracker - TK102B ",
+      "description": "Simply insert a GSM sim card into the GPS unit. Whenever you call the unit it will respond with the coordinates of its location thru a SMS message. You can then use these coordinates on any mapping software (for example Google Earth) which will show where exactly the unit is located.",
+      "price": "13,500.00",
+      "instock": "23",
+      "category": "Car Alarm System & Security",
+      "photo": "0004.png"
+    },
+    {
+      "id": "0005",
+      "name": "1000M Telescopic 8X Monocular Golf Sport Hunting Laser Rangefinder ",
+      "description": "1, Measuring Distance/Speed/ Angle/ Height all in one device. 2, Built-in 3.7V 750MAH Li-ion polymer battery, Single Measuring 30000 times after one time full charging. 3, Battery life: Charger-discharger 800 times. 4,Original double injection molding shell, so that the product is more solid",
+      "price": "71,000.00",
+      "instock": "23",
+      "category": "Measuring & Layout Tools",
+      "photo": "0005.png"
+    },
+    {
+      "id": "0006",
+      "name": "Wireless Presenter with Laser Pointer ",
+      "description": "This high quality 2.4 GHz Wireless Remote Red Laser Pointer Presentation Black is small and exquisite, portable and with rich applications. It is an essential assistant for demonstrations and presentations; you can easily point to the PPT (PowerPoint) or whiteboard in any corner of the classroom/hall with ease and convenience. It helps in making your demonstrations and presentation more dynamic and interactive. This laser pointer is also the best gift for friends and families.",
+      "price": "4,400.00",
+      "instock": "21",
+      "category": "Remote Control",
+      "photo": "0006.png"
+    },
+    {
+      "id": "0007",
+      "name": "Afootol Automatic Fire Extinguisher Ball ",
+      "description": "The Revolutionary Fire Extinguisher and Alarm System. Fire Extinguisher ball is a kind of shaped ball extinguisher. When simply thrown into the fire, it would activate within 3 seconds and effectively disperse extinguishing chemicals. When a fire occurs and no one is present, fire extinguisher ball will self-activate when it comes into contact with fire and give loud noise to warn the people nearby. Due to this feature, it can be placed in many fire prone areas, such as electrical circuit breakers, or kitchen, cars, hotels, etc. There is no special training or skill required to operate the ball and no need to face any dangers. No inspection and maintenance are required for the product life span for 5 years.Fire Extinguisher ball is a kind of shaped ball extinguisher. When simply thrown into the fire, it would activate within 3 seconds and effectively disperse extinguishing chemicals. When a fire occurs and no one is present, fire extinguisher ball will self-activate when it comes into contact with fire and give loud noise to warn the people nearby. Due to this feature, it can be placed in many fire prone areas, such as electrical circuit breakers, or kitchen, cars, hotels, etc. There is no special training or skill required to operate the ball and no need to face any dangers. No inspection and maintenance are required for the product life span for 5 years.",
+      "price": "9,950.00",
+      "instock": "12",
+      "category": "Fire Extinguishers",
+      "photo": "0007.png"
+    },
+    {
+      "id": "0008",
+      "name": "Memoscan U480 Can-bus Obd2 Engine Scanner Code Reader ",
+      "description": "With U480 code reader, you may quickly find out trouble causes (troubleshooter) of electronically controlled systems on your car, by simply connecting U480 with the 16 PIN diagnostic socket, via reading the trouble code (DTC) shown on U480, identifying, locating and checking out trouble causes with attached user's manual. U480 Function 1.Works on all 1996 and newer cars & trucks that are OBD II /EOBD compliant including CAN, VPW, PWM, ISO and KWP2000 protocol 2.Reads and clears generic and manufacturer specific Diagnostic Trouble Codes (DTCs) and turns off check engine light.",
+      "price": "9,900.00",
+      "instock": "12",
+      "category": "Automotive Tools & Accessories",
+      "photo": "0008.png"
+    },
+    {
+      "id": "0009",
+      "name": "2017 Version D900 OBD2 Universal Diagnostic Car Scanner With Kit Bag ",
+      "description": "Universal 2017 D900 OBD2 Code Reader Scanner Automotive OBDII EOBD JOBD Diagnostic Scann Tool  Better. Fast scan and clear trouble codes, even a beginner can use this unit to read the error code, find out what the problem is and perhaps fix it. Save money and time.",
+      "price": "12,670.00",
+      "instock": "12",
+      "category": "Automotive Tools & Accessories",
+      "photo": "0009.png"
+    },
+    {
+      "id": "00010",
+      "name": "ELM Bluetooth OBD II 2 Car Diagnostic Scanner Tool ",
+      "description": "With Super Mini size. The newly developed wireless scan tool. It supports all OBD-II protocols. It adopts the latest version 2.1",
+      "price": "6,999.00",
+      "instock": "21",
+      "category": "Automotive Tools & Accessories",
+      "photo": "00010.png"
+    },
+    {
+      "id": "00011",
+      "name": "Digital LCD Portable Indoor Outdoor Thermometer Hygrometer- DC103",
+      "description": "Digital LCD Portable Indoor Outdoor Thermometer. Indoor Hygrometer.With a wired external sensor that can be strung to the outside of your house to sense external temperature as well as a built-in sensor to simultaneously measure the indoor temperature. Indoor temperature: -10 Celsius?+50 Celsius (+14 Fahrenheit ? +122 Fahrenheit). Outdoor temperature: -50 Celsius?+70 Celsius (-58 Fahrenheit ? +194 Fahrenheit)Indoor Humidity: 20%RH?90%RH \r\nUse battery: 1 * 1.5V (AAA) battery(Not included) \r\nSensor cable length: Approx. 90cm / 35.4in \r\nProduct size: 70 * 81 * 20mm / 2.8 * 3.2 * 0.8in\r\n Product weight: 66g / 2.32oz",
+      "price": "4,000.00",
+      "instock": "22",
+      "category": "Measuring & Layout Tools",
+      "photo": "00011.png"
+    },
+    {
+      "id": "00012",
+      "name": "AmazonBasics 9 Volt Everyday Alkaline Batteries -8-Pack",
+      "description": "AmazonBasics brings you everyday items at a great value An Amazon Brand, A 9V Alkaline batteries which are often used in applications like fire alarms, where the battery must sit for year or more. Pack of eight 9 Volt Alkaline Batterie 3-year shelf life so you can store for emergencies or use immediately Works with a variety of devices including digital cameras, game controllers, toys, and clocks; do not attempt to recharge",
+      "price": "8,500.00",
+      "instock": "22",
+      "category": "Sealed Maintenance Free Batteries",
+      "photo": "00012.png"
+    },
+    {
+      "id": "00013",
+      "name": "3200 Lumen Edumate Projector with Desktop PC Core i3 3.4GHz- 4GB RAM -1TB HDD -Ceiling Mount",
+      "description": "Edumate Projector with Intel(R) core i3(3.4Ghz) Processor, 4GB RAM and 1TB HDD. \r\nProjection system with 3200 lumens and High resolution, Supports both Microsoft Windows & Open Source (Linux ) platforms \r\nThe on-board 10/100/1000-Mbps Ethernet LAN connectivity offers internet connectivity \r\nEdumate is designed for high-end performance and facilitates use of both 2D and 3D multi-media content and other applications. Edumate-large Memory capacity of 4GB RAM backed by Intel(R) Extreme Graphics controller Edumate facilitates use of Wireless Keyboard, Mouse and Remote Controller for TV. Projection system integrates High Lumens (3200 Lumens minimum) Lamp with DLP technology and remote control for increased throw and ultra-bright focus. \r\nInbuilt TV tuner facilities and can work as a TV. USB Ports for connecting external devices like Scanner, Printer, webcam etc. Internet Ready Systems with Wifi Adapter \r\nInbuilt Stereo Speakers on Integrated High Definition audio to support hi-end audio output. \r\nEasy to operate \r\nComes with user Manual and Instructions. A Free Ceiling Mount is Added to easily Mount and Use",
+      "price": "120,000 ",
+      "instock": "2",
+      "category": "Video Projectors",
+      "photo": "00013.png"
+    },
+    {
+      "id": "00014",
+      "name": "Wireless Weather Station with Alarm Clock- Temp, Humidity, Alarm Clock & Weather Forecast ",
+      "description": "Measure indoor and outdoor temperature and humidity.With wireless technology, it can show outdoor temperature in indoor receiver.Remote transmission of outdoor temperature by 433MHz signals. Multiple functions: calendar, alarm, snooze and weather forecast.Can set indoor/outdoor temperature and humidity alert.2 temperature units for choice: Celsius(°C) or Fahrenheit(°F).The LCD screen with color display, enjoyable to read.It can be wall mounted or placed on the table. \r\nSpecifications \r\nTemperature Measurement: 0~50°C / 32~122°F(indoor) -20~70°C / -4~158°F(outdoor \r\nTemperature Resolution: 0.1° \r\nHumidity Measurement: 20%-95%R \r\nTransmitter Battery: 2 x 1.5V AAA Battery(not included \r\nReceiver Battery: 2 x 1.5V AAA Battery(not included) \r\nTransmitter Size: 9.5 x 6 x 2.5cm / 3.7 x 2.4 x 1in \r\nTransmitter Weight: 67g / 2.4oz \r\nReceiver Size: 20 x 12 x 2.5cm / 7.9 x 4.7 x 1in \r\nReceiver Weight: 236g / 8.4oz \r\nPackage Size: 26.5 x 13 x 3.5cm / 10.4 x 5.1 x 1.4in \r\n\r\nPackage Weight: 378g / 13.3oz ",
+      "price": "18,500",
+      "instock": "2",
+      "category": "Measuring & Layout Tools",
+      "photo": "00014.png"
+    },
+    {
+      "id": "00015",
+      "name": "80M Laser Distance Rangefinder Meter with Camera and Point Finder for Outdoor Operation",
+      "description": "This is a very well built, versatile, accurate and labor intensive digital laser distance meter. It greatly improves speed and accuracy, makes field work easy, mindless and more accuracy. The measuring origin can be set to the front, back or middle. Simple measuring is very easy: just press the MEAS key once to turn on the laser; point it to where you want to measure and press the MEAS key again. The distance can be displayed in inches/feet (both decimal and fractional) or meters. You can cycle through the various units by pressing the UNIT key.Other options include area, cubic volume, indirect measurement, the ability to add/subtract measurements...etc.The meter has Large TFT LCD 4 lines Display, digital Level, Camera, USB Connection, Self Calibration function, Area & Volume Addition/Subtraction, Straking-out.Hightlights: Easy targeting with bright laser pointer, a labor intensive distance measurer makes field work easy, mindless & accurate. Ideal for home, construction and industries, especially in large areas such as rooms, apartments, buildings, real estates, factories, warehouses, etc.Double injection enables durable and well build, non-slip rubber-like material around the edge enables a solid grip and the buttons respond nicely.Wide measuring range from 0.05 to 120m, High accurate measuring +/-2mm,Multi unit selection of meter, inch and feet; Digital level, Large TFT LCD Display, Digital Level, USB Connection.Multi Measurement Modes: Single-distance Measurement, Continuous Measurement, Area & Volume Measurement, Area & Volume Addition/Subtraction, Indirect Pythagoras Measurement 2 year warranty, supports data hold and data clear function, Supports data store/recall function, IP54 protection Auto/Manual power off",
+      "price": "62,000.00",
+      "instock": "23",
+      "category": "Measuring & Layout Tools",
+      "photo": "00015.png"
+    },
+    {
+      "id": "00016",
+      "name": "3 In 1 Multi-parameter Water Quality Tester Monitor ",
+      "description": "The water quality monitor is professional and useful tool for testing PH/TDS/TEMP of solution level. Suitable for aquarium pool and environmental water.Portable Pen Type PH Temperature TDS Features: Use to measure the PH & TDS & TEMP of solution.Electrode probe can be replaced, ATC function.Easy calibration of pH and TDS with just a mini-screwdriver.Large and clear LCD with backlight, easy to read and accurately measuring functions.Apply in water sources, aquarium, hydroponics, spas, swimming pools and other water systems.Automatic temperature compensation.Specifications:Range: pH: 0.00 ~ 14.00pHTDS: 0.00 ~ 19990ppmTemperature: -50°C~ 70°C (-58°F~ 158°F)Resolution: pH: 0.01pHTDS: 10ppmTemperature: 0.1°C (0.2°F)Accuracy: pH: ±0.1pHTDS:±2%F.S Temperature: ±1°C (±2°F)Temperature Compensation: 0°C ~ 50°C (32°F ~ 122°F)Working temperature: 0°C ~ 50°C (32°F ~ 122°F)Power Supply: DC 6V (Power Adapter Usable) Battery: 4×1.5V AG-13 Button Cell Batteries (NOT Included)Item Size: Approx. 188 * 35 * 35mm / 7.4 * 1.6 * 1.6inItem Weight: Approx. 80g",
+      "price": "19,500.00",
+      "instock": "12",
+      "category": "Measuring & Layout Tools",
+      "photo": "00016.png"
+    },
+    {
+      "id": "00017",
+      "name": "Digital Grain Moisture Meter ",
+      "description": "The grain moisture meter is used for fast and accurate measurement of moisture in the process of allotment, acquisition, storage, machining of packed grains, feedstuff, powder.It is able to measure grains up to 22 species.The cup type measurement causes small error and it has wide measuring range.With storage and statistical functions it can store 240 groups of measurements.Two presentations, digital display and color coded LED indication.It uses the exclusive Micro-computer LSI circuit and crystal time base to offer high accuracy measurement. It can obtain automatically the temperature corrected moisture value.Technology parameter: Grains - 22 SpeciesMeasuring Range 0~50 %Accuracy ±(0.5n%+0.5)Resolution 0.1Display 4 Digits, 10 mm LCD, With Color Coded LED IndicatorLED Indicator Green LED represents a safe, air-dry stateYellow LED represents a borderline stateRed LED represents a damp stateCalibration AutomaticBattery Indicator Low Battery IndicatorOperating Conditions Temperature: 0~50 %°C, Humidity: < 90 %RHPower Supply 4 x 1.5V AAA Size (UM-4) BatteryDimensions Uint: 150 x 65 x 30 mmSensor: 175 x 76 x 76 mm Grain Types: Japonica Rice, Soya Beans, Wheat, Rapeseed, Corn, Barley, Indica Rice, Rice, Bean Pulp, Peanut, Rapeseed Meal, Granulated Feed, Sunflower seed, Watermelon Seed, White Wheat, Sorghum, Black Sesame, Northeast Corn, Cotton seed, Cottonseed Meal, Coffee Beans, Cocoa Beans",
+      "price": "137,500.00",
+      "instock": "2",
+      "category": "Measuring & Layout Tools",
+      "photo": "00017.png"
+    },
+    {
+      "id": "00018",
+      "name": "Universal  Night Driving Glasses - Anti Glare Vision Driver Safety Sunglasses",
+      "description": "chili oil, garlic, celery",
+      "price": "4,850.00",
+      "instock": "2",
+      "category": "Glasses & Sunglasses",
+      "photo": "00018.png"
+    },
+    {
+      "id": "00019",
+      "name": "360° Panoramic Hidden Fish Eye Camera LED Light Bulb 1080P HD ",
+      "description": "360 degrees panoramic view.Support Motion detection.Advanced e-PTZ on split video.Simultaneous multi H.264 streams support.iPhone and Android apps available for remote viewing.Free client software.Plug & Play smart access without IP setting via routers.Support paging browsing, automatic round tour.Support digital zoom on preview & playback.Very easy for operation & installation.It can be used on many occasions, Baby Monitor, Elderly Care, Small Store Management and Room Surveillance.Specifications:Lens: 1/2.5 Fish Eye Lens 2.8mmResolution: 2.0MP, 1920 x 1080PMin. Illumination: 0.001LuxVideo Image Compression: H.264Frame rate: 25 fpsImage adjustment: The brightness, contrast, saturation, chromaticity, can be adjustableWhite balance: AutomaticInfrared mode: Automatic, manual (on/off)Night-vision Supported, IR-Cut, Night visibility up to 10m.Input: Built-in microphone Output: Build-in speaker.Network: Ethernet Interface Built-in 10/100Mbps, Auto MDI/MDIX, RJ-45Wireless Standard: WIFI (IEEE802.11b/g/n)Protocol: HTTP, FTP, TCP/IP, UDP, SMTP, DHCP, PPPoE, DDNS, UPnP, GPRSIP mode: Dynamic IP address, static IP addressWireless Security: WEP & WPA WPA2 EncryptionHardware Interface: Memory Micro SD Card (Support 64G) (NOT included)Audio Input/Output: Built in audio inputReset Buttons: One ResetMobile Phone: Support iPhone, Android, iPadWorking Environment: IndoorsVoltage: 110V-240VPower supply: DC12V/1.6APower consumption: 2WColor: WhiteMaterial: ABS (Acrylonitrile Butadiene Styrene)Size: Approx. 14.5 x 8.7cm/5.71 x 3.43''Note:1. No Support Mac computer/ No support IE, Chrome other browser view Not Support 5G Network/ Router. Only support 2.4G router/ 4G phone network.2. The camera power supply comes from the power switch, to use the camera, you need to keep the power switch on. Turn off the power switch, the camera will turn off. If possible, please let the camera connect to independence power switch.Package Included:1 x Light Bulb IP Camera1 x Fitting Base1 x Fitting Screw Kit1 x User Manual",
+      "price": "27,500.00",
+      "instock": "12",
+      "category": "Safety and Security",
+      "photo": "00019.jpg"
+    },
+    {
+      "id": "00020",
+      "name": "Water Quality Tester for PH, EC, Temperature - 3 in 1 ",
+      "description": "Features:Test temperature in degrees / Fahrenheit(switchable unit)Use to measure the pH & EC & TEMP of solutionElectrode probe can be replaced, ATC functionEasy to carry and simple to operateEasy calibration of pH and EC with just a mini-screwdriverAutomatic temperature compensationLarge and clear LCD with backlight, easy to read and accurately measuring functionsApply in water sources, aquarium, hydroponics, spas, swimming pools and other water systems.The water quality monitor is professional and useful tool for testing PH/EC/TEMP of solution level. Perfect for wide applications, such as beverage, fish hatcheries, food processing, aquarium, photography, laboratory, quality control, school & colleges, swimming pools, water conditions.Specifications:Range: pH: 0.00 ~ 14.00p EC: 0.00 ~ 19990us/cmTemperature: -50 degrees~ 70 degrees (-58 Fahrenheit~ 158Fahrenheit )Resolution: pH: 0.01pEC: 10us/cmTemperature: 0.1 degrees (0.2 Fahrenheit)Accuracy: pH: ±0.1pHEC:±2%F.STemperature: ±1 degrees (±2 Fahrenheit)Temperature Compensation: 0 degrees ~ 50 degrees (32 Fahrenheit~ 122Fahrenheit)Working temperature: 0 degrees ~ 50 degrees (32 Fahrenheit ~ 122 Fahrenheit)Power Supply: DC 6VBattery: 4×1.5V AG-13 Button Cell BatteriesColor: GreMaterial: ABItem Size: Approx. 188 * 40 * 40mItem Weight: Approx. 75.7g / 2.7oPackage Size: Approx. 21 * 10.4 * 5cmPackage Weight: Approx. 158g",
+      "price": "19,600.00",
+      "instock": "12",
+      "category": "Measuring & Layout Tools",
+      "photo": "00020.png"
+    },
+    {
+      "id": "00021",
+      "name": "Full HD 1080p Hidden WiFi Light Bulb Camera ",
+      "description": "Monitor your home and office with this bulb from your phone New hot:  bulb p2p wifi camera, motion activated security hidden camcorder dvr,real-time audio & video recording, ir night vision with invisible infrared light Motion detection & infrared: to save on memory space and electricity, the santa spy bulb's hidden camera can be set to record only when motion is detected. It is also equipped with infrared capabilities, which helps it capture the scene even when there is no light in the room, keeping you informed of any happenings in the dark of night.Wifi wireless: wifi ip network function. Disguised as a family bulb, this wi-fi ip camera transmits secure, interference free, video signal directly to your wireless router for remote viewing and recording.Most practical: support smartphone tablet app remote view and control; support pc computer view and control; email alert;7/24 hours non-stop recording; support 32gb tf card in max(not included); circle storage;High definition: spy mirror bulb produces 1280x960p full HD video so recorded events are always crystal-clear",
+      "price": "32,000.00",
+      "instock": "2",
+      "category": "Safety and Security",
+      "photo": "00021.png"
+    },
+    {
+      "id": "00022",
+      "name": " Uniclass Android Smart TV Box",
+      "description": "Make your TV smart and turn it to Computer to ease teaching and learning for school, home, office, churches among othersUniclass pre-loaded with Android os version 4.2 osProcessor-rk3066 cortex-a9 dual core 1.5ghzInternal Memory- 2gb  r.a.m- 512mbYou can connect your keyboard, mouse to run as a computer, to run office activitiesRuAndroidid applications such as satelitte tv and many othersComes with wi-fi and lan capabilities for connecting to the internetHas three (3) usb ports for connecting your hard drive, flash drive, and other devices.The product can be connected to a projector or even a television, making it an ideal digital teaching device for homes and school e.t.cHas an inbuilt card reader, comes with an hdmi cable and av cablesEquipped with an air mouse for easy navigation",
+      "price": "6,500.00",
+      "instock": "20",
+      "category": "Smart Home Automation Devices",
+      "photo": "00022.png"
+    },
+    {
+      "id": "00023",
+      "name": "Portable PH & Chlorine Meter for Swimming Pool, Spa, Water Quality Monitor and Checker ",
+      "description": "Description:This water quality tester is designed to test pH and chlorine level for swimming pool and spa. It is easy to operate, no more chemicals need. Large screen quickly shows the test result with high precision. Light weight and compact, easy to carry.Features:1. Made of premium plastic shell, durable and sturdy.2. Easy to operate, no more chemicals need.3. A convenient tool to test water pH and chlorine level for swimming pool and spa.4. Large screen displays the test result on pH and chlorine level for easy and accurate reading.5. Light weight and compact, easy to carry. With a hole for convenient hanging.Specifications:Condition: 100%Material: Plastic + MetalColor: Gray WhiteSize: approx. 18 x 11.6 x 3.1cm / 7.1 x 4.6",
+      "price": "14,250 ",
+      "instock": "8",
+      "category": "Measuring & Layout Tools",
+      "photo": "00023.png"
+    },
+    {
+      "id": "00024",
+      "name": " Indoor Outdoor Thermometer Hygrometer - Analog",
+      "description": "Features:100% brand new and high qualityModern type thermometer&hygrometerEasy to readHooking hole available with adjustable portWidely used for measurement of the temperature and humidity in house, school, office, hotel, factory, storeroom etcSpecifications:Humidity measurement range: 0 to 100% RHTemperature measuring accuracy: -5 to 55 CelsiusDiameter: approx 100mmNet weight: 135g",
+      "price": "4,300.00",
+      "instock": "2",
+      "category": "Measuring & Layout Tools",
+      "photo": "00024.png"
+    },
+    {
+      "id": "00025",
+      "name": "Stage Wireless Lavalier Lapel Headset Microphone System Mic FM Transmitter- VHF ",
+      "description": "Communication:WiredConnectors:AUXFrequency Response Range:8-22000HzFunction:Microphone,Sport,Supports musicLine Length:1.3mModel Number:32303920372gPackage:YesPlug Type:L BendingResistance:98OSensitivity:122±3dBStyle:Headset MicrophoneSupport APP:NoSupport Apt-x:NoSupport Memory Card:NoVocalism Principle:ElectrostaticWaterproof:No",
+      "price": "7,500.00",
+      "instock": "5",
+      "category": "Stage, Studio & Recording Equipment",
+      "photo": "00025.png"
+    },
+    {
+      "id": "00026",
+      "name": "Digital Indoor and Outdoor LCD Thermometer & Hygrometer Weather Station with Alarm Clock ",
+      "description": "This Digital Thermometer is characterized by the large LCD screen which is designed for easy readouts of the humidity and temperature measurements.The cable with probe is for measurement of the outdoor temperature and humidity and the internal sensor inside the thermometer is for indoor measurement. For convenient installation, the hole and the stand back of the thermometer makes it can be used on the wall and desk or the table.\r\n\r\n\r\nFeatures:\r\nModern type outdoor indoor desk thermometer with hygrometer.\r\nOne cable with probe for feeling the outdoor temperature and humidity.\r\nIndoor and outdoor temperature (min. or max.) and humidity (max. or min.) display.\r\nOne hole and one stand back of the thermometer that you can use on the home wall or desk table.\r\nRectangle white plastic appearance and wide LCD screen.\r\nOne switch back of the thermometer that you can adjust Centigrade or Fahrenheit.\r\nThree buttons which is in the front of the thermometer (Max, Min, Reset).\r\nClear and correct display with easy to read Arabic number.\r\nOutdoor Temperature range: -50 to 70 Centigrade (-58 to 158 Fahrenheit).\r\nIndoor temperature range: 0 to 50 Centigrade (32 to 122 Fahrenheit).\r\nThe outdoor humidity can display on the screen when you are out; the indoor humidity can display on the screen when you are in, but they are not display at the same time.\r\nIt is widely used for the measurement of the temperature and humidity in houses, offices, workshops, schools, markets, warehouses, etc.\r\n\r\n\r\nSpecifications:\r\nDevice Type: Thermometer Hygrometer Temperature Humidity Meter\r\nMaterial: Plastic\r\nTemperature Precise: 0.1 Centigrade\r\nHygrometer Range:    25% RH to 98% RH\r\nPower Source:    One AAA Battery (NOT INCLUDED)\r\nSize: 12.5cm * 7.0cm * 1.92cm\r\nCable Length: 1.5 m\r\nWeight: 110g\r\nColor: White\r\nPowered by one AAA battery (NOT INCLUDED).\r\nOutdoor Temperature Range: -50 to 70 Centigrade (-58 to 158 Fahrenheit)",
+      "price": "5,890.00",
+      "instock": "22",
+      "category": "Measuring & Layout Tools",
+      "photo": "00026.png"
+    },
+    {
+      "id": "00027",
+      "name": "Digital Grain And Powder Moisture Meter - TK100S ",
+      "description": "If you are or know someone who is dealing with a lot of grains and powders, you most likely use one of these on a regular basis. If you have a bag of rice or flour, how will you know it’s not going to mold? Well, we wouldn’t know until we measure the content with a moisture meter. This is why we try our best to provide quality meters to improve your lives without having to spend a fortune.\r\n\r\nWhether it is for industrial use or households, we guarantee this meter will get the job done. Accurate meters like these will definitely benefit households and our goal is to provide these meters for not only industrial use, but also regular households.\r\n\r\nIf your family is into baking and culinary activities, this meter will come in great use. Most households, including our own office, have a lot of products which can potentially absorb too much moisture.This digital moisture meter is also ideal for measuring for example sand, soil, grains, flour, rice or anything powdered. You can simply just take it out of the box and start using it, no calibration or settings needed. It is so easy we sometimes question the reviews and technical questions online.\r\n\r\nThe digital moisture meter does not allow savings of data but instead there is a simple hold function that gives you time to see the reading, even if you remove the sensors away from the sample. We recommend this meter to anyone who cares and want to have a fresh and safe household.",
+      "price": "27,500.00",
+      "instock": "2",
+      "category": "Measuring & Layout Tools",
+      "photo": "00027.png"
+    },
+    {
+      "id": "00028",
+      "name": "LCD Digital Grain Moisture Meter & Humidity Tester - MD7822",
+      "description": "Portable Digital Grain Moisture meter for: Rice, Paddy, Maize and Wheat Moisture tester.\r\n\r\n1. Manual off at any time\r\n\r\n2. High precision moisture meter\r\n\r\n3.Grain Moisture Meter is used for fast and accurate measurement of moisture in the process of allotment, acquisition, storage, machining of packed grains,  Corn,  Rough Rice, , Paddy and Wheat.\r\n\r\nSpecification:\r\n\r\n    Moisture measuring range: 2% to 30%\r\n    Maximum error : ± (1%Rh +0.5)\r\n    Resolution: 0.5%\r\n    Temperature measuring range: - 10°C to 60°C\r\n    Maximum error: ±2°C(±4°F)\r\n    Resolution: 1°C /2°F\r\n    Environment: Ambient temperature: - 10°C to 40°C\r\n    Ambient humidity: 0~70%RH\r\n    Weight:460g\r\n    Dimension: 170*170*50mm (main unit)\r\n    440*60*60mm (measurement probe)\r\n    Accessories: portable box, operation manual, measurement probe\r\n",
+      "price": "18,500.00",
+      "instock": "12",
+      "category": "Measuring & Layout Tools",
+      "photo": "00028.png"
+    },
+    {
+      "id": "00029",
+      "name": "High Quality 5/8 \" 120cm Aluminum Tripod for Laser Level Meter ",
+      "description": "1. Easily to put on and off. works most of Laser level\r\n2. The weight is very light it's about 1kg And packed with a carry bag convenient to carry for carry\r\n3. Dual spirit level Design includes two (2) adjustment knobs to dampen panhead effect when applicable with abilities to any angle with precision and efficiency\r\n4. 3-section column leg with quick release locks provides a more convenient stance satisfying your desired height\r\n5. Leg angle adjustment lock ensures single adjustment of each leg.\r\n6. The center axis inverted function ensures you lowest shooting.\r\n7. Non-slip rubber feet.",
+      "price": "8,000.00",
+      "instock": "6",
+      "category": "Measuring & Layout Tools",
+      "photo": "00029.png"
+    },
+    {
+      "id": "00030",
+      "name": "Outdoor Receiver for Laser Level & Precision Detector up to 50M ",
+      "description": "The Outdoor receiver is designed to pick up the laser signal from a rotary laser. This receiver has a front and back LCD display for easy readoutQuickly and accurately locates any laser signal emitted from rotary or \"pulsed beam \"line-generatingDual sided on grade LED indicator lights with high low on grade and audible signalsCan detect the laser signal up to 50 meters (164 feet) and can be put on anywhere with the clampUniversal detector,for any red and green laser with a frequency within 10000Hz9V batteries required and includedNote: - If you buy a laser level with no outdoor's function, then you will not be able to use laser level and laser level detector together.- When you use outdoor detector combined with laser level, First, you must open laser level's \"OUT\" or \"Outdoor\" button if not, the outdoor detector can not work correctly.",
+      "price": "18,000.00",
+      "instock": "5",
+      "category": "Measuring & Layout Tools",
+      "photo": "00030.png"
+    },
+    {
+      "id": "00031",
+      "name": "Multifunctional Pocket Prismatic Luminous Compass - Army Green",
+      "description": "Prismatic Water Resistant Luminous Compass with Pouch Military Army Travel Geology Equipment   Features:\r\n- Made of zinc alloy, fully sealed design, lightweight and water resistant\r\n- Specially designed with fluorescent light, be able to use in dark environment\r\n- With bubble level, improve accuracy of the position\r\n- With cm and inch ruler on each side, can measure the length of items\r\n- Can be used for positioning, orienting on a map, plotting and so on\r\n- Equipped with carrying bag and hang rope, convenient to carry and use\r\n- Equipped with clinometer   Dial Display: Pointer\r\nOutdoor Activity: Bicycle Cross-country,Camp,Hike,Tourism\r\nShockproof or Not: Yes\r\nUse: Level,Pointing Guide\r\nWaterproof / Water-Resistant: Yes\r\nWith Noctilucent Display or Not: Yes   Package weight: 0.383 kg\r\nProduct Size(L x W x H): 9.50 x 6.50 x 3.00 cm / 3.74 x 2.56 x 1.18 inches\r\nPackage Size(L x W x H): 11.00 x 8.00 x 4.50 cm / 4.33 x 3.15 x 1.77 inches Package Contents: 1 x Compass, 1 x Pouch",
+      "price": "5,800.00",
+      "instock": "2",
+      "category": "Measuring & Layout Tools",
+      "photo": "00031.png"
+    },
+    {
+      "id": "00032",
+      "name": "XEAST XE-901 5 Lines 3D Red Laser Level ",
+      "description": "Xeast XE-901 Laser is great for various leveling and layout applications. This unit is used for projecting bright crossing horizontal(4) and vertical(1) lines. It features red beam laser technology which is more visible and allow for a greater visible range in interior applications along with better exterior visibility. This unit offers (3) 360 degree line lasers to aid in full room layout. A full-time pulse mode allows use with a detector. It also has an integrated magnetic bracket, an over-molded housing and IP54 water/debris resistance, along with a locking Pendulum that helps t prevent damage to internal components. It uses 4 AA batteries\r\n\r\n \r\n\r\nThis product It is widely used in the field of construction, decoration and equipment installation. It emits a laser line and precise work projected on the object, making the construction process more convenient, more time and more effort, while ensuring construction quality.\r\n\r\npacking details?\r\n1.3D Line Laser level x1\r\n2. Bag x1\r\n3. L-type bracket x1\r\n4. Manual x1\r\n \r\nModel No. XE-901  \r\n   Red Laser  \r\nType 1H(360)/1V  \r\nExpanded Angle H360° /  V130°  \r\nLaser class Class 2  \r\nLight source 40MW&10MW  \r\nLaser wavelength 510nm  \r\nH/V accuracy ±3mm/10m  \r\nSelf-leveling range 4°±1°  \r\nSelf-leveling time =3s  \r\nWorking distance(Line) 35m?=50m \r\nwith detector  \r\nOperating time >4.5h(all lasers on)  \r\nPower source 4 * AA(LR6)  \r\nIP rating IP54  \r\nOperating Temperature range -10°C to 50°C  \r\nStorage temperature range -20°C to 70°C  \r\nMount size 1/4''-20  \r\nWeight 1.5gk  \r\n",
+      "price": "65,000.00",
+      "instock": "7",
+      "category": "Measuring & Layout Tools",
+      "photo": "00032.png"
+    },
+    {
+      "id": "00033",
+      "name": "Rotary Dual-Scale Angle Meter with Magnetic Base- Analog Inclinometer- Protractor",
+      "description": "Angle meter. -Quickly measure, verify or replicate an angle or rise. -Simple 1 hand operation with large thumb screw positioned on the handle. -  Big easy to read scales rotate and align using large bubble vial.Product Type: -Levels/Meters.Generic Dimensions: -1.13 H x 6.13 W x 12.63 D, Dimensions: Overall Length - Side to Side: -6.13 Inches.Overall Height - Top to Bottom: -1.13 Inches.Overall Depth - Front to Back: -12.63 Inches.Quickly measure, verify or replicate an angle or riseSimple, one-hand operation with a large thumb-screw positioned on the handleBig, easy-to-read scales rotate and align using a large bubble vialIdeal for civil engineering, construction, plumbing, telecommunication and more",
+      "price": "12,200.00",
+      "instock": "9",
+      "category": "Measuring & Layout Tools",
+      "photo": "00033.png"
+    },
+    {
+      "id": "00034",
+      "name": "Compass Round NatureHike Copper NH80A003-E ",
+      "description": "This Digital Thermometer is characterized by the large LCD screen which is designed for easy readouts of the humidity and temperature measurements.The cable with probe is for measurement of the outdoor temperature and humidity and the internal sensor inside the thermometer is for indoor measurement. For convenient installation, the hole and the stand back of the thermometer makes it can be used on the wall and desk or the table.\r\n\r\n\r\nFeatures:\r\nModern type outdoor indoor desk thermometer with hygrometer.\r\nOne cable with probe for feeling the outdoor temperature and humidity.\r\nIndoor and outdoor temperature (min. or max.) and humidity (max. or min.) display.\r\nOne hole and one stand back of the thermometer that you can use on the home wall or desk table.\r\nRectangle white plastic appearance and wide LCD screen.\r\nOne switch back of the thermometer that you can adjust Centigrade or Fahrenheit.\r\nThree buttons which is in the front of the thermometer (Max, Min, Reset).\r\nClear and correct display with easy to read Arabic number.\r\nOutdoor Temperature range: -50 to 70 Centigrade (-58 to 158 Fahrenheit).\r\nIndoor temperature range: 0 to 50 Centigrade (32 to 122 Fahrenheit).\r\nThe outdoor humidity can display on the screen when you are out; the indoor humidity can display on the screen when you are in, but they are not display at the same time.\r\nIt is widely used for the measurement of the temperature and humidity in houses, offices, workshops, schools, markets, warehouses, etc.\r\n\r\n\r\nSpecifications:\r\nDevice Type: Thermometer Hygrometer Temperature Humidity Meter\r\nMaterial: Plastic\r\nTemperature Precise: 0.1 Centigrade\r\nHygrometer Range:    25% RH to 98% RH\r\nPower Source:    One AAA Battery (NOT INCLUDED)\r\nSize: 12.5cm * 7.0cm * 1.92cm\r\nCable Length: 1.5 m\r\nWeight: 110g\r\nColor: White\r\nPowered by one AAA battery (NOT INCLUDED).\r\nOutdoor Temperature Range: -50 to 70 Centigrade (-58 to 158 Fahrenheit)",
+      "price": "3,500.00",
+      "instock": "12",
+      "category": "Measuring & Layout Tools",
+      "photo": "00034.png"
+    },
+    {
+      "id": "00035",
+      "name": "0-360 Degrees Hiking Gear GPS High Precision Magnetic Pocket Transit Geological Compass ",
+      "description": "spiced butter, toasted bread herb salad",
+      "price": "9,500.00",
+      "instock": "22",
+      "category": "Measuring & Layout Tools",
+      "photo": "00035.png"
+    },
+    {
+      "id": "00036",
+      "name": " Garmin Nüvi 55 GPS Navigators With Spoken Turn-By-Turn Directions",
+      "description": "Garmin nüvi 55 West Africa Essential Navigator.  The nüvi 55 offers features that were previously only available in the Garmin Advanced Series lineup. With a crisp 5” manual dual-­?orientation display, this easy-­to-­use, dedicated GPS navigator provides affordable guidance with spoken turn-­by-­turn directions. The nüvi 55LM comes preloaded with maps for West Africa and includes FREE Lifetime Map Updates.FREE LIFETIME MAP UPDATES: Businesses open and close. New roads are built. Be confident your routes reflect the latest map data availablePOINTS OF INTEREST: Look up addresses and search for over 190 000 points of interest.GARMIN REAL VOICETM: Hear spoken turn-by-turn directions from speech technology that sounds more like a natural, friendly human voiceUP AHEAD: Easily find places Up Ahead, like food and fuel stations, without leaving the mapKey FeaturesEasy-to-use dedicated GPS navigator with 5.0” dual-orientation displayDoes not rely on cellular signals; unaffected by cellular dead zonesPreloaded with detailed west Africa mapsNavigate complex interchanges with easeEasily search addresses and millions of points of interestPRODUCT CONFIGURATIONnüvi 55Package contains: nüvi 55, 12V Cigarette Lighter Adapter, Suction Cup Mount, Quick Start Manual and Mini USB CableUnit Dimensions: 16.8 x 9.4 x 2cmDisplay Size: 5 Display Resolution: 480 x 272 pixelsDisplay Type: WQVGA colour TFT with white backlightWeight: 180gBattery: Rechargeable Lithium-­?IonBattery Life: Up to 2 hoursMaps: West Africa pre-­?loaded with FREE Lifetime Map UpdatesTrip Planner: YesWaypoints/Favourites/Locations: 1000",
+      "price": "50,500.00",
+      "instock": "2",
+      "category": "GPS & Navigation",
+      "photo": "00036.png"
+    },
+    {
+      "id": "00037",
+      "name": "Launch Car Scanner/ Creader Vi Obd2 Code Reader",
+      "description": "Launch Creader VI is the next generation of vehicle fault diagnosis tool developed by Launch, especially for the DIY users and the servicemen of small service workshop. This product applies the color LCD display and personalized function menu. It can diagnose the OBD & EOBD vehicles in whole functions with multi-language selection and LED diagnostic status indicators, which improves the user-friendliness. Meanwhile, the adoption of a whole new operation system makes the Creader VI run faster and help the user diagnose the vehicle more efficient. Launch Creader VI Function: Read dynamic datastream MIL indicator Readiness status test Search freeze frame data Read current DTCs Clear DTCs O2 sensor detection test Specified monitoring system on-board monitor test Read pending DTCs Read on-board systems or components control Read vehicle information Read permanent DTCs DTCs search Tested data playback Launch Creader VI Specification: Screen: 2.8'' TFT 262K true color, 320*240 Pixels LCD display Input voltage range: 8 ~ 32V Operating current: <100mA12V(Typical) Power consumption: <1.2W(Typical) Link connection: Standard OBD 16-pin DLC Operating temperature: 0 ~ 50 Storage temperature: -20 ~ 70 RH 60%t Launch Creader VI Package list: 1 x Creader vi 1 x USB Cable 1 x User manual",
+      "price": "28,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00037.png"
+    },
+    {
+      "id": "00038",
+      "name": "Autel Maxidiag MD801 4 In 1 Auto Diagnostic Scanner",
+      "description": "MD801= JP701+EU702+US703+FR704 Autel maxiscan MD801 code reader MaxiDiag PRO MD801 MaxiDiagPRO MD801, an innovative multi-functional scan tool powered by Autel Uni-SCAN? technology, is designed for technicians to troubleshoot engine, transmission, ABS and airbag systems for most of the vehicles on the road today. This scan tool not only is affordable, reliable and easy to use, but it is also a time saver and a money maker. Features · One tool can do it all-troubleshoot and clear engine, transmission, airbag, and ABS failures · Global OBD I & OBD II coverage (US, Asian & European) · Turn off engine, transmission, ABS and airbag warning lights for most USA Domestic, Asian and European vehicles · Support all nine test modes of the latest J1979 OBD II test specs, including Read Codes, Erase Codes, Live Data, Freeze Frame, I/M Readiness, O2 Mon.Test, On-Board Mon.Test, Component Test and Vehicle Information · Read/clear codes for Tire Pressure Monitor Systems · Enhanced OBD II Mode 6 · OBD II repair information · Display DTC definitions on unit screen · Retrieve ECU information(VIN, CIN and CVN) · Data graphing · Read, store & playback live data · CAN enabled with no adapters to buy · Memory/battery backup for off-vehicle data review and analysis · Extremely easy to use and highly reliable · Print data via PC-link Vehicle coverage Toyota 1994-2008 Renault 1996-2008 Honda 1994-2008 Citroen 1996-2008 Nissan 1994-2008 Peugeot 1996-2008 Mazda 1996-2008 VW/ AUDI 1990-2008 Mitsubishi 1994-2008 BMW & Mini 1993-2008 GM 1984 -2008 Mercedes 1995-2008 Ford 1984-2008 Volvo 1996-2008 Chrysler 1988-2008 Opel 1997-2008 Global OBDII compliant US, European and Asian vehicles Contents: · MaxiDiagPRO MD801 tool · OBD II cable and adapter · USB cable · CD software · User's manual · Nylon carry case · 1.5V battery x 4",
+      "instock": "8",
+      "price": "53,050.00",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00038.png"
+    },
+    {
+      "id": "00039",
+      "name": "SBB Key Programmer V33.02",
+      "description": "SUPPORTS ALL BRANDS OF CARS Like Toyota, Audi, Honda, Nissan, Volkswagen etc. SBB Key Programmer V33 is a new device used as a portable unit for programming keys in immobilizer units on vehicles. Due to its integrated hardware, SBB needs no more than the OBDII cable provided to carry out a wide range of functions:programming new keys SBB key programmer Function: 1.reading keys from immobilizer's memory 2.deactivating keys no longer in the car owner's possession 3.operation by means of a menu guided programming 4.programming new remote controls 5.software with full database containing all the most important vehicle makes SBB key programmer Package list: 1pc x SBB Main Unit 1pc x OBD II cable 1pc x AC adapter 1pc x CD with user manuals",
+      "price": "52,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00039.png"
+    },
+    {
+      "id": "00040",
+      "name": "All Data Vehicles Repair Software 10.53 - 1TB For Cars & Trucks",
+      "description": "Product Description List of Softwares (1) 2014 alldata 10.53 (2) 2013 mitchell (3) NYO V4.0 (4) Vivid Workshop Software (5) ESI tronic. (6) Mitchell On Demand Heavy Truck (7) Airbag Universal Repair (8) ECM Chiptuning 2001 V6.3 (9) WinOLS (10) ECU Flash Reprogramming Precautions (11) Mitchell OnDemand 5 (12) Caterpillar SIS (13) IMMO TOOL (14) Immo Killer (15)DATA EXPLORER MANAGER TOOLS (16) Tachosoft Mileage Calculator (17) OTOCHECKER 2.0 IMMO CLEANER (18) For Cummins InPower ONAN (19) for Nissan SuperCode Software (20) for Audi-VW-SKODA-SEAT ELSAWIN 4.0 Alldata contains a full description of repair and maintenance for cars of American manufacture, as well as Asian and European vehicle production produced for the American market. Alldata 10.53 will help to repair not only American cars, but it will renovate and European and Asian foreign cars, since many nodes in the cars are identical, despite the assembly for different markets. The program provides detailed information on repair, which describes the features of the device separate mechanisms, norms of various parameters (volumes of refueling capacities, wheel alignment, etc.), the diagnostic and repair equipment and special tools, the description of works on assembly, disassembly, adjustment, repair and diagnostics, information about the location of components and tools, etc. The program Alldata 10.53, you can not only repair but also to engage in troubleshooting electronic components car. To do this, you have the following information: location of the diagnostic connector, detailed tables decoding fault codes indicating the possible causes, symptoms, and the consistency checks to fix the problem, description of the read blocks of current parameters with an indication of normative values, work with channel adaptation, etc . This version is the portable version and can be run from an external hard drive, unlike the previous version of this Alldata 10.52 added more drives. ALLDATA also includes factory-correct maintenance schedules that itemize additionally needed services. These softwares are compatible with systerm XP and WINDOW 7(32bit,not 64bit) and plz turn off the anti-virus software when using!!! We have vedio and documents for installation if you are not familiar with this software and the video for installtion will be included ALLDATA 10.53 Contents List: Daignosis and Repair All Diagnostic Trouble Codes(DTC) Relays and Modules Sensors and Switches Maintenance Engine, Cooling and Exhaust Powertrain Management Transmission and Drivetrain Brakes and Traction Control Starting and Charging Power and Ground Distribution Steering and Suspension Heating and Air Conditioning Restraint Systems Accessories and Optional Equipment Body and Frame Cruise Control Instrument Panel, Gauses and Warning Indicators Lighting and Horns Windows and Glass Wiper and Washer Systems Parts and Labour Popular Information Diagnostic Trouble Codes DTC Technical Service Bulletins Specifications Locations Diagrams Service Precautions Technician Safety Information Vehicle Damage Warnings Vehicle Identification Tools and Equipment System Diagnosis Five-Step Troubleshooting Troubleshooting Precautions Troubleshooting Tests General Troubleshooting Power Relay Test Mitchell 1 OnDemand5 is the end product of repair information that has been collected across the past eight decades and presented to our customers in a consistent, easy-to-use format.OnDemand5.com includes Diagnostics, Repair Information,TSBs, Recalls, Maintenance Requirements, Parts Prices, Labor Times, Vintage Information, and Fluid Types and Volumes that have been reproduced directly from the Original Equipment Manufacturers (O E M) published works. All this information is then combined to create the aftermarket industry’s best Wiring Diagrams, Users Tips, and Shortcuts that make up Mitchell 1’s OnDemand5. Powerful yet simple to navigate, Mitchell 1's OnDemand Repair has been completely redesigned to deliver sophisticated search capability with increased speed. You'll save valuable time using brand new shortcuts to TSBs, wiring diagrams, and more! 1.1983-current year Domestic & Import Model Coverage 2.Clear, Concise Illustrations & Diagrams 3.Time-saving TSBs, Recalls, & Technical Tips 4.Detailed, Accurate Repair Articles 5.Model-Specific Maintenance Schedules 6.Electronic Component Locator for all Models 7.Detailed, Accurate Repair Articles 8.Model-Specific Maintenance Schedules",
+      "price": "44,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00040.png"
+    },
+    {
+      "id": "00041",
+      "name": "Launch X431 Creader VIII Cars Scanner",
+      "description": "Launch creader VIII Automobile diagnostic tools Launch Creader VIII, features OEM enhanced functionality one might expect from a bigger scan tool. Functions include electronic parking brake release, steering angle reset and service reminder reset, not to mention the ability to display and graph live PID data for A/T, SRS, and ABS, along with complete generic OBDII. The tool includes quick boot up, manufacturer-specific code definitions, DTC-specific troubleshooter tips, free internet updates, and the ability to print via PC. Item Type: Code Readers & Scan Tools Car Maker: Audi, Benz, BMW, Chevrolet, Chevy, Chrysler, Ford, GM, Honda, Hyundai, Kia, Land Rover, Mazda, Nissan, Opel, Peugeot, Porsche, Renault, Saab, Seat, Suzuki, Toyota, Volvo, VW Software Update: Yes Language: English, French, Spanish Item Type: Code Readers & Scan Tools Warranty: One year Display: 3.5'' , 320*480 TFT LCD true color display Operating Temperature: 0 to 50°C Storage Temperature: -20 to 70°C Brand Name: Launch Model Name: Creader VIII Link connection: standard 16 PIN OBD diagnostic interface SPECIFICATION Screen: 3.5\", 320*480 TFT LCD true color display Input voltage: 9-15V Connection: Standard 16 PIN OBD diagnostic interface Working temperature: 0-50°C Storage ambient temperature: -20 to 70°C DESCRIPTION Launch Creader VIII is the newest released code reader by Launch. It combines the functions of Launch CRP123 and CResetter II oil lamp reset tool. LAUNCH CREADER VIII APPLICATIONS Launch CRP 129 will help the technician diagnose issues with engine, transmission, SRS and ABS. It will reset DTCs within these systems. Code definitions and most likely causes for the codes will also be available from within the tool itself. FEATURES Extensive vehicle system coverage Engine Coverage (OBDII / EOBD) ABS Coverage Airbag (SRS) Coverage Transmission (Auto Trans) Coverage Oil Service (OLS) Reset Electronic Parking Brake (EPB) Coverage Steering Angle (SAS) Coverage • Read and Clear Diagnostic Trouble Codes (DTC's) • Retrieves Generic and Manufacturer Codes - both Permanent and Pending • Auto Module Search • Display DTC Definitions - Help, Information and Service Information • View Freeze Frame Data & I/M Readiness Monitor Status • Display Live PCM Data Stream & O2 Sensor / Carbon Canister Data • Graph, Record and Replay Data in Full Colour • Retrieves Vehicle Information (VIN,CIN and CVN) • Multilingual (English, Spanish and French) • Software updateable via the Internet • Print data via PC.",
+      "price": "85,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00041.png"
+    },
+    {
+      "id": "00042",
+      "name": "Car Bluetooth Handsfree Phone FM Transmitter MP3 Card Dual USB Charger",
+      "description": "This product is a special Bluetooth car charger that can switch the call to the hands-free state via the professional Bluetooth modules as long as the mobile phone is provided with the Bluetooth function. It can also send the music in your phone to your car sound wirelessly. You can enjoy the music and answer the call in hand-free mode without refitting your car, which ensure the driving safety while enjoying music. Features Support Bluetooth hands-free phone calling via its built-in microphone. Support A2DP function. Music will be played directly while the mobile phone is connected. Built-in dual USB 5V / 4.1A output, 3.1A USB port support smart charging, it is available for charging most kinds of devices in car. LCD display of frequency and voltage. English voice number prompt. Support SD/TF memory card and USB flash drive (1A USB port) reading, can play music files on MP3/WMA/APE/FLAV/WAV format. With a support of FM channels, this car MP3 wireless FM transmitter lets you take a break from your regular music. Plug the MP3 player into cigarette lighter of your car directly, easy to use and carry. Specification Type : Car MP3 player Material : ABS Quantity : 1pcs Iteem Color : Black Display Color : Blue Bluetooth Version : Bluetooth 4.0 (support A2DP/SBC/AAC/HSP/AVRCP) Files Supported : MP3/WMA/APE/FLAV/WAV FM Frequency : Range 87.5-108.0MHz SNR 85dB (FM: 65dB) Effective Distance : 5m / 16.4ft Working Voltage : DC 12V-24V USB Output : 5V / 3.1A (Smart IC), 5V / 1A Port 2*USB 2.0; 1*TF card input, up to 32GB max Item Size 3.8*4.6*7.8cm / 1.5*1.8*3.1\" (L*W*H) Net Weight 0.035kg / 1.2oz",
+      "price": "8,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00042.png"
+    },
+    {
+      "id": "00043",
+      "name": "Neo Socket Car Fuel Saver",
+      "description": "This revolutionary technology provides consumers with an inexpensive way to save money at the gas pump and help our environment at the same time. Better yet, there are no installation charges. Just plug the Fuelshark into your car’s lighter adapter and the blue light will let you know that the Fuelshark is working, and reminds you that you are saving money. Increase your car's mileage just by plugging it into your cigarette lighter socket. Start saving gas consumption by 10% to 30% immediately. Designed for any car or truck with a 12V cigarette lighter socket Lower emission, low power consumption and longer battery life. Pays for itself quickly as it saves you money and improves your vehicles mpg averages No Installation required. Just plug it in the cigarette lighter socket. With LED Indicator.",
+      "price": "1,200.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00043.png"
+    },
+    {
+      "id": "00044",
+      "name": "Vehicle Communication Scanner (VCS) V1.5 Diagnostic Tool",
+      "description": "Feature *With full-feature OEM- based software, experience the difference with VCS Vehicle Communication scanner *Support comprehensive diagnosis and reading of control modules. *Successful diagnostics means proper detection of all ECMs. *With dealer level capability and the widest vehicle range, the Vehicle Communication Scanner VCS interface will put your team in the driver's seat and your business on the road to success. Specification Power Supply: 8-12VDC, 110-250VAC, 50HzConnection: Wireless or USB Minimum PC System Requirement (Not included): Windows XP or Vista CPU 300MHz 256MB RAM memory 1GB Hard Disk Memory CD Drive Working Temperature: 10 - 176oF (-10 - 80oC Humidity: < 90% Dimensions: 20\" X 14\" X 6\" Weight: 17.6 lbs Highlights Works with Over 40 makes, 1,000 vehicle system, --including CANBUS systems Access to Power train, Chassis and Body systems One click \"Quick Test\" button to scan all ECUs Live data display with waveform displays Component-level and System-level activations Reset and clear adaptations, calibrations and service functions Hyundai and VW/ Audi immobilizer special functions ECU initialization and coding SAE J2534 \"Pass-thru\" ECU reprogramming Nissan/ Infiniti idle speed self learning function Frequent Internet software updates Multi-language for international market demand \"PC-link\" functions for PC operations VCS Advantage Free to test cars within 50-100m (Distance depends on environment; the above distance is for reference only.) VCS functions *Read & Clear Diagnostics Fault Codes VCS easily read & clear vehicle specific information - manufacturer specific codes, factory codes, and generic fault codes on a particular electrical circuit. Our advice: don't forget to print it out in real time. *Quick Test & Quick Delete (select software) The Quick Test feature allows you to quickly scan all systems in the vehicle, identify controllers with faults and provides immediate access to those systems without having to navigate through multiple menus. Our advice: Don't forget to print it out in real time. *Read Live Data Fault codes & live data is the basics of electronic diagnostics. Experience high-speed response rate of 8-10 frames per second w/ real-time troubleshooting of up to 4 graphs. Diagnose signals for rich or lean conditions with live data retrieval and viewing of modules in digital and analog format. Our advice: Don't forget to print it out in real time. *Component & System level actuations test Perform verification tests to validate the functionality of a particular electrical circuit. This function will bypass time consuming labor to check the workmanship of electronic components such as switches, sensors, relays, & actuators. Use the VCS to actuate control modules and see what needs replacement without removing panels and testing without the usage of a multimeter. {cylinder power balance test, EVAP system leak, EGR valve, solenoids, power windows, winshield wiper activation, etc.} Special Functions *Service Resets & Initialization: When components (e.g. injectors, switches, mass air flow sensor, cooling temp sensor, etc.) are replaced within a module, avehicle will run very rough. Initialization immediately readapts all the values,so the components will be recognized by the vehicle system. (e.g. To reset the service indicator for the vehicle such as \"oil service\", \"service reminder light\", \"steering angle sensor\", etc.) *Vehicle Adjustment: Vehicle Communication Scanner VCS is able to adjust performance parameters. (e.g. idle RPM, idle speed adjustment, ignition timing, vehicle w/ immobilizer, set fuel synchronization, throttle-body relearn, DME Alignment, etc.) *Coding & Programming: Read & change coding has now become highly important for any new retrofit control unit in the vehicle. Contact VCS Dealer for more information. Other Functions *Self-learn Function Create a personalized database system to record ideal conditions of the actual values in the vehicle system. *Record 160 Frames of Live Data Record a real-time data stream up to 160 frames during a drive cycle. More complicated diagnosis of an intermittent problem wil require the use of this function to evaluate data stream during a controlled drive cycle PACKING LIST 1pc x VCS main unit 1pc x OBD2 cable 1pc x USB cable 1pc x CD",
+      "price": "82,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00044.png"
+    },
+    {
+      "id": "00045",
+      "name": "Digital Tyre Gauge For Vehicles",
+      "description": "In any light, day or night, the Digital Tire Gauge gives you an instant, accurate and easy-to-read measurement of your vehicle's tire pressure, helping you travel safely. Accurate and Easy A simple pushbutton turns the unit on and selects one of 4 measurement ranges. Light at Night The lighted nozzle illuminates work area in low light, so you can easily locate valve stem. With gentle pressure, the nozzle seals onto valve stem quickly and completely to deliver an accurate measurement. Instantly, the exact measurement is clearly displayed on the lighted digital screen, so there is no guesswork or estimation like reading an analog gauge. After you are done, a 30-second automatic shut off means you never have to worry about accidently running the batteries dead. Ergonomic Design Contoured to fit your hand, the ergonomic shape is completed by a soft, non-slip texture, for ultimate comfort and control. Check your tire pressure often. Properly inflated tires keep you safe on the road and help you save on gas. Store this handy tool in your glovebox or console, so it's always ready when you need it. Specifications: (4) Measurement Ranges: PSI: 0-100, Bar: 0-7, KPA: 0-700, Kgf/cm2: 0-7 Minimum Increment: 0.5 PSI Power Source: (1) CR2032 3V Lithium Coin Cell, (3) LR44 1.5V Button Cells (All Included)",
+      "price": "1,200.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00045.png"
+    },
+    {
+      "id": "00046",
+      "name": "Eco OBD2 Fuel Optimization Device For Cars",
+      "description": "Green Color Economy EcoOBD2 Benzine Car Chip Tuning Box Plug And Drive ECO OBD2 Save Fuel For All Petrol Cars From 1996. - Up to 15% fuel savings - Lower Fuel and Lower Emission EcoOBD2 is a Plug&Drive Ready device to function the increasing the performance of engine. EcoOBD2 is easy to install. Just plug it into the OBD2 connector of cars. NitroOBD2 fits all car from the year of 1996. It works based OBD2 protocols as remaping the Car's computer ECU. After driving 200 km road total, Eco OBD2 adjusts itself to the car, according to the drivers' habits and always keeps remaping the ECU to increase the performance of engine.",
+      "price": "3,050.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00046.png"
+    },
+    {
+      "id": "00047",
+      "name": "Delphi Metals - DS150E Full System Tool For Cars & Trucks",
+      "description": "This is the best value for money multi-platform advanced diagnostics tool for all vehicle systems you will find! The Delphi DS range of diagnostic testers have unbeatable software with over 27,000 vehicle systems on over 45 vehicle manufacturers Functions: 1. Read & Erase Fault Codes for all systems: -Petrol & Diesel Engine Management, ABS, Instrument panel, Climate control, Gearbox, Immobiliser, SRS, Multifunction (Central Body, Central Locking, Convenience Systems, Chassis, Infotainment, Lights, Navigation, Seats, TPMS etc -Vehicle Specific). 2. Look at Live Data, graphing and saving of live data for later viewing. 3. ECU Coding / Parameter Adjustments / Component Configuration (initialization of new components, particulate filter regeneration, Diesel Injector coding, TPMS etc). 4. Intelligent System Scan, complete scan of all ECU / ECMs on vehicle platform, configurable by system. 5. Full Vehicle Information tree allowing vehicle specific check of OBD functionality without being connected to a vehicle. 6. Service Light Reset and Service Interval Reset 7. Diesel Injector coding FLIGHT RECORDER. With the flight recorder function, you can record parameters in real time while you are driving a vehicle. During recording, you can, with a press of a button, highlight the specific error so that you can investigate the detected error at a later time. DS150 is equipped with built-in memory thus removing the need to bring a computer. Memory card not included in package. CHASSIS NUMBER VIN. In our CARS software, we have a smart function that allows you to read out the chassis number from the vehicle that you would like to diagnose. This ensures that the right model and year is selected automatically. In addition, engine code for vehicles, which are commonly available on the markets, is also selected automatically. INTELLIGENT SYSTEM SCAN (ISS) scans through all the systems in the vehicle and displays the fault codes that are stored in each system. This saves time and you get a quick overview of the actual status of the entire vehicle. When the ISS is complete, you can then select a specific control system to analyse the results further on.",
+      "price": "37,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00047.png"
+    },
+    {
+      "id": "00048",
+      "name": "Maxiscan MS309 OBDII Car Diagnostic Scanner",
+      "description": "The MS309 OBD2 Scanner Car Diagnostic Code Reader displays monitor and I/M readiness status (emissions). It shows code definition on screen. Though small in size, it is powerful enough to retrieve same information as large expensive scanners. Features Works with all 1996 and later OBDII compliant US, European and Asian vehicles, easily determines the cause of the check engine light (MIL), retrieves generic (P0, P2, P3, and U0) and manufacturer specific (P1, P3, and U1) codes, turns off check engine light (MIL), clears codes and resets monitors Displays DTC definitions on unit screen, Views freeze frame data Displays monitor and I / M readiness status (emissions). Bilingual interface and DTC definitions in english, spanish, french, german.etc Retrieves vehicle information (VIN, CIN and CVN). Supports CAN (controller area network) and all other current OBD-II protocols. Large easy-to-read backlit LCD screen. Free DTC lookup software CD. Extremely easy to use and highly reliable. Small in size and conveniently fits in your palm\"",
+      "price": "8,450.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00048.png"
+    },
+    {
+      "id": "00049",
+      "name": "Magnetic Fuel Saver",
+      "description": "Magnetic fuel saver is the most effective fuel-enhancing device available. Magnetic fuel saver is designed to condition the fuel prior to combustion to increase power output, save fuel, and reduce emissions. It will dramatically reduce engine maintenance costs by eliminating carbon and varnish deposits which are the main source of engine wear. How to Use Two pieces of neodymium bar magnets are encased inside two plastic holders respectively with N-S poles facing each other which attract two pieces together. Use the strap to bind the two pieces tightly to the fuel line. Choose the spot which is about 2 inches from the engine to apply this unit. Place over the incoming fuel line (gas or diesel) in your car, truck, boat or motorcycle and start maximizing your engine's performance.",
+      "price": "2,400.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00049.png"
+    },
+    {
+      "id": "00050",
+      "name": "Automobile Ignition Tester Instrument Detector Coil Diagnostic Tool",
+      "description": "Features: Strict control to ensure good quality. High quality and meticulous work, a good choice for you. Quickly diagnose ignition system problems, lack or no spark condition. Easily test ignition circuit continuity at each cylinder. Connects between the plug and the plug wire. Perfect for trouble shooting all internal combustion engines. Specifications: Color: Black Length: 270 mm Material: Stainless steel/ Plastic Package Contents: 1 x Spark Tester",
+      "price": "4,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00050.png"
+    },
+    {
+      "id": "00051",
+      "name": "Vgate Icar WIFI High Quality OBD2",
+      "description": "Vgate iCar OBDII WIFI Car Diagnostic Reader is a fast and efficient way to self diagnose problems with your vehicle’s engine and it also has Bluetooth for connecting Android or PC devices and wifi for IPAD aon Iphones Vgate iCar OBDII Car Diagnostic Reader The iCar OBDII scan tool from Vgate is a high-quality automotive scanning tool that supports all OBD-II protocols, including SAE J1850 PWM(41.6K baud), SAE J1850 VPW(10.4K baud), ISO9141-2(5 baud init, 10.4K baud) and USER2 CAN(11 bit ID, 50K baud). You can use the Vgate iCar OBDII scan tool as a way to self diagnose issues with your vehicle so that you know what needs to be done next time you visit a mechanic. You plug it in using its 16 pin interface directly on to the OBDII cable and will never need to unplug it. Also, it is small and has a compact structure, so it won't take up much space. As it uses Bluetooth version 2.0, you have a stable wireless connectivity range of around 5 to 10 meters. Plus it does not require any wires or batteries since the adapter is powered by the diagnosis socket. Top 11 Reasons to Get VGATE Wifi ELM327: 1. Version: v1.5 2. For Android PC For iPhone iPad 3. Fully compatible with ELM327 V1.4b. 4. All ELM327 supported software are available to use. 5. Faster than ELM327 four times or higher. (ELM327 is RISC 8bit 44MHz MCU, iCar is ARM 16bit MCU) 6. Built in power switch. 7. Low standby power consumption sleep mode. 8. Lower power consumption than ELM327 9. LED indicator is in the front side toward user for easier check of linking status. 10. Support J1939 protocol more than ELM327. 11. WiFi 802.11 b/g and encrypted for better security. Notice: Due to the android diagnostic software becomes heavier to run, suggest to use on smart phone with CPU 800Mhz or higher, 1GHz recommended. Product Specifications: OBDII decode chip: ARM 16bit MCU Firmware: ELM327 Version 1.4b compatible Transfer baud rate: 4800 / 9600 / 10400 / 38400 / 500K Input interface: OBDII male 16pin Output interface: Wifi 802.11 b/g LED Indicator: Power(red) / OBD(green) / Link(blue) (PC or smart phone) Operating Voltage: 12V, including over voltage /shortage protection Nominal Idle current: 45mA Net Weight: 31g Gross Weight: 60g Wire Length: 0 cm SSID: BUYOBD Password: See item label IP: 192.168.0.10 HTTP local port: 35000 Encryption: WEP128 Power: supplied by car OBD socket HOW TO USE 1 Keep car key at off position 2. Plug the Vgate scantool into Car OBDII female socket. OBD2 socket is usually below the driving wheel. The Vgate should blink all 3 LEDs and off again. Only red power LED remains on. 3. Insert car key. 4. Switch car key to Accessory ON position, 5. Turn on WiFi of PCtebook/smart phone. Check Windows control panel>wireless network>Setting>Advanced>Wireless mode>IEEE 802.11b/g/n. Check android wifi setting, turn off existing link. Check iPhone Wi-Fi networks, turn off existing link. 6. Scan the Vgate wifi device from your Desktop/Notebook PC/PDA/phone. Find SSID \"VGATE\" or \"BUYOBD\". The Vgate blue LED should be on now. Otherwise, the device doesn't respond to the scanning. 7. For Windows/Android, If SSID is \"VGATE\", it is DHCP mode, not need to set up. If SSID is \"BUYOBD\", enter 13 digits password shown on the label of the white plastic case. IP: select \"Fixed\", and enter \"192.168.0.10\" Subnet mask: enter \"255.255.255.0\" DNS: keep blank For iPhone/iPad: If SSID is \"VGATE\", it is DHCP mode, not need to set up. If SSID is \"BUYOBD\", enter 13 digits password shown on the label of the white plastic case. IP: change from \"DHCP\" to \"Fixed\"! IP: enter \"192.168.0.11\" or later Subnet mask: enter \"255.255.255.0\" HTTP local port: enter \"35000\" 8. App setup: select Vgate device as KiWi wifi or ELM327. Click link, app will build a link to Vgate. App may take time for scaning vehicle protocol less than a minute or so. App starts to show static data once recognize the protocol and has correct table of associated sensor. The Vgate green LED should be blinking now. The faster data rate the protocol is, the the faster the green LED blinks. Turn off the app, not minimize\", if app fails to link and doesn't show data. Start another app and try again. Some vehicles may have to turn car key to \"ON/Start\" position to activate car ECU. Turn car key to \"ON/Start\" position to read real-time data. Communication Protocol with carista android app you can use it to scan engine, ABS, SRS and Transmission.",
+      "price": "10,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00051.png"
+    },
+    {
+      "id": "00052",
+      "name": "CK100 Auto Key Programmer V99.99 Immobilizer",
+      "description": "Descprition: CK-100 Auto Key Pro Tool is a New Generation of the SBB Key Programmer, the replace version. Alternative to function and feature of the SBB V33.02. Increase much more features and functions. More powerfull and functional Excellent Quality. Highlight: 1. Newest Version: V99.99 2. This CK100 is with 1024 tokens. [No token limitation for most cars; but for few cars with 1024 tokens, After 1024 times, it can be free updated by us and start to use again. So it can be used a long time.] 3. Support Language: English, Italian ,Dutch, French, Spanish, Portuguese, Turkish 4. Compared with sbb, CK-100 Auto Key Programmer support more New Models and wider year scope, and also add new pin code service. Function: 1. Programming new keys. 2. Reading keys from immobilizers memory 3. Deactivating keys no longer in the car owners possession 4. Operation by means of a menu guided programming 5. Programming new remote controls 6. Software with full database containing all the most important vehicle makes CK 100 Auto Key Programmer. Car Maker: Audi, Australia Ford, Chevrolet,Chevy, Chrysler, Citroen, Dacia, Daewoo, Fiat, Ford, GM, Holden, Honda, Hyundai, Isuzu, Jaguar, Kia, Lancia, Land Rover, Mazda, Mitsubish, Nissan, Opel, Peugeot, Renault, Romeo, Rover, Saab, Seat, Skoda, Subaru, Suzuki, Toyota, VW e.t.c CK100 PIN CODE SERVICE: 1) HYUNDAI PIN CODE 2) KIA PIN CODE 3) NISSAN BCM CODE 4) VAG PIN CODE SYSTEM1 (SYSTEM2, KOSTAL, MEGAMOS/DELPHY) 5) VAG 7-4 PIN CONV (PIN7, DEALER, IMPORTATORE, PIN4, DATA(00/00/2000), EXIT) Compare SBB, add new pin code service below: 6) GM PIN CODE ECM TYPE 1 (ECM TYPE 2, ECM TYPE 3, ECM TYPE 4, ECM TYPE 5, ECM TYPE 6 7) CHRYSLER FOBIKCODE 8) FORD KEYLESS ECODE (KEYLESS ENTRY CODE1, KEYLESS ENTRY CODE2) Packing List: 1pc x Main Unit 1pc x USB Cable 1pc x Power Supply 1pc x Packing Carton",
+      "price": "55,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00052.png"
+    },
+    {
+      "id": "00053",
+      "name": "7inch Driving Video Recorder GPS Navigation Map Wifi, FM, Handfree",
+      "description": "Free Offline Maps and navigation voice guidance for all routes in Nigeria Free GPS antenna and connection you can Remotely track and Monitor your car with App on your smartphone. Dual Port high powered USB socket to charge the device with other gadgets simultaneously Dual Lens HD Camera Front and Rearview Recorder (Recording simultaneously) with Magnetic dashboard fitting for easy use. 16GB internal memory storage capacity with more than 20 pre-loaded music and videos Automatically switches to the back camera with parking line assist on reverse Advanced Driving Guidance with GPS Navigation System (with both Online & Offline Map) and navigation voice guidance Bluetooth synchronize with your phone/tablet (you can receive phone calls on your DVR) FM transmitter function, you can tune to a pre-set frequency/ sync the music/ videos/navigation voice guidance with your car radio/ speaker. You can watch the video clip of your car (DVR) no matter where you car is from anywhere in the world, when connected to internet. Dual Cam simultaneously recording ● ADAS smart system ● Smooth GPS Navigation ● 7\" Touch Screen ● Three split view display ● Android 1.3Ghz Quad Core ● RAM 1GB+ROM 16GB ● Build in Google Play ● Easy Installation",
+      "price": "48,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00053.png"
+    },
+    {
+      "id": "00054",
+      "name": "Universal Carg7 Bluetooth Car Handfree",
+      "description": "Bluetooth car MP3 player, car charger and TF slot. Adopts professional high-performance Bluetooth module; Built-in MP3 / WMA decoder chip; Can transmit the audio files in USB flash drive or TF card to car audio system; Also can send the music in your phone to car audio system through Bluetooth; Will switch to hands-free state and will switch back to playing state after calls end. Function: Bluetooth : Transmits the music in cellphone, USB flash drive, TF card or MP3 to car audio system; Car charger: Charge cellphones, iPad and other devices through USB port; Hands-free calls; Can read USB flash drive or TF card through USB port or TF slot; HiFi stereo, adopting DIGITAL, PLL technology; LCD screen displays frequency, more convenient to use; All frequency points transmitting, up to 200 frequency for choice; Power-off memory function, can memory the current frequency; With Play & Pause, Previous & Next keys. General Model Earldom Quantity 1Set Material Plastic Form Color White + Silver Grey + Multi-Colored Display Screen Size 0.7inch Screen Display Transmitting Frequency Screen Resolution N/A Specification Function Frequency / voltage display; Independent Bluetooth on/off button; Audio input; Supports to play the music in USB flash drive; Supports MP3 / WMA format; Answer / hang up / reject / redial through Bluetooth; Adopts echo cancellation and noise reduction (CVC) technology for calls; USB supplies 5V/2.5A power for other devices; Power-off auto memory; Car battery voltage display. Power Off Memory Function Yes FM Frequency Range 87.5~108MHz FM Transmit Distance 10m Audio Formats MP3 File Format MP3 / WPA Audio Mode Natural Remote Control No Remote-controlled Distance 0cm Interface Interface/Port USB 2.0 , TF card slot , 3.5mm Storage External Memory Max. Support 32B Other Features Power Supply 12~24V",
+      "price": "6,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00054.png"
+    },
+    {
+      "id": "00055",
+      "name": "Code Scanner MVCI For TOYOTA TIS For Volvo/Honda/ Toyota MVCI Car Diag",
+      "description": "MVCI is a high performance factory diagnostics and reprogramming interface for TOYOTA TIS. MVCI is compatible with Toyota, Lexus, and Scion vehicles over the J1962 DLC3 connector. Worked car model: for Honda, Toyota, Lexus and Volvo. Feature: Fully compatible with Toyota TIS Techstream Supports Diagnostics, Reprogramming, Active tests, and key programming Supports most 1996 and newer Toyota, Lexus, and Scion vehicles with OBDII/DLC3 diagnostics Fully compatible with SAE J2534 Programmable power supply Able to apply 5V-24V to OBD pins 6,9,11,12,13,14 or AUX 2.5mm stereo connector Able to apply GND to OBD pins 6,9,11,12,13,14,15 or AUX 2.5mm stereo connector RGB status LEDs Supported Protocols K-Line ISO 9141 KWP 2000 ISO 14230-4 SAE J1850 PWM SAE J1850 VPW CAN 2.0B ISO 11898 CAN ISO 15765-4 Specifications Operating Temperature: -20 to 70 °C ( -4 to 158 °F ) Storage Temperature: -40 to 85 °C ( -40 to 185 °F ) Diagnostic Interface: 16PIN USB Interface : USB 2.0 Power: DC 5 V - 36V Consumption: 0.7W Dimensions: 95mm(3.74?)L x 49mm(1.93?)W x 28mm(1.10?)H",
+      "price": "48,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00055.png"
+    },
+    {
+      "id": "00056",
+      "name": "PSA-COM Bluetooth Diagnostic Programmer Tool For Peugeot/Citroe",
+      "description": "PSA-COM is a diagnostic program for Peugeot/Citroen vehicles. It can access to various electronic control units (ECUs) such as Engine, Gearbox, ABS, Airbag/SRS etc. and also can display identification, read and clear fault code memory, display and record measured values and perform actuator tests. PSACOM Bluetooth is diagnostic tool for Peugeot/Citroen, dealer level diagnostic and programming advanced device, it is able to communicate with Bluetooth. PSACOM BT PSA-COM Hardware: Our OBD2 to USB PSA-COM interface contains 8x ISO9141 K-Line, 1x ISO9141 L-Line, CAN-BUS and analog measurement circuits. PSA-COM Bluetooth Compatible Protocols: ISO15765, PSA2000, Bosch KW71 and PSA2. Operation System (OS): PSA-COM Bluetooth diagnostic interface is compatible with Windows 2000/XP/Vista/7/8/8.1/10 or Linux and Mac OS/X (using Wine emulation) Multi-language Available:Arabic, Croatian, Czech, Danish, Dutch, English (United States), Finnish, French (Standard), German, Greek, Hebrew, Hungarian, Italian, Polish, Portuguese (Brazilian), Romanian, Russian, Serbian (Cyrillic), Spanish, Turkish PSACOM BT PSA-COM Features: Fully multiplexed all-in-one Bluetooth interface Automatic ECU recognition Automatic vehicle scan ECU Identification : – finds all the available ECUs in the car by pressing the single button. Bluetooth – wireless connectivity to your Windows laptop or tablet Fault code (DTC) reading Fault code clearing, with the ability to store DTC vehicle history forever Freeze frame reading Measured vaules / live data Live data recording, fully dynamic with graphing of up to 6 data streams at a time, recording and other manipulations Diagnostic protocol printing Actuator tests , test components via direct ECU access Special Functions - perform dealer level high-end programming/coding such as: Key programming Service reset DPF (Diesel Particulate Filter) regeneration EGR (Exhaust Gas Recirculation) self-test Airbag programming Injector programming Power Steering calibration ECU replacement Car configurations Package includes: 1pc x New PSA-COM PSACOM Interface",
+      "price": "45,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00056.png"
+    },
+    {
+      "id": "00057",
+      "name": "Mini Elm 327 V1.5 Bluetooth Vehicle Diagnostic Scanner",
+      "description": "On-board diagnostics micro-controller for OBDII interfaces V 1.5 advantages and features • PICI8F25K80 chip • Real ELM327 1.5 version support • Supports version 9 protocols • Includes SAE-J1850 PWM and JAE J1850 VPW protocols• Improved quality • Support app for ELM327, similar to TORQUE • Starting Bluetooth password: 1234 or 0000 Supported version 9 protocols: 1. SAE J1850 PWM (41. 6 Kbaud) 2. SAE J1850 VPW (10. 4 Kbaud) 3. ISO9141-2 (5 baud init. , 10. 4 Kbaud) 4. ISO14230-4 KWP (5 baud init. , 10. 4 Kbaud) 5. ISO14230-4 KWP (fast init. , 10. 4 Kbaud) 6. ISO15765-4 CAN (11 bit ID, 500 Kbaud) 7. ISO15765-4 CAN (29 bit ID, 500 Kbaud) 8. ISO15765-4 CAN (11 bit ID, 250 Kbaud) 9. ISO15765-4 CAN (29 bit ID, 250 Kbaud) A. SAE J1939 CAN (29 bit ID, 250 x Kbaud) B. USER1 CAN (11 x bit ID, 125 x Kbaud) C. USER2 CAN (11 x bit ID, 50 x Kbaud) Functions: 1. Read generic and manufacturer diagnostic trouble codes 2. Clear trouble codes and turn off the MIL (\"Check Engine\" light) 3. Display current sensor data 4. Engine RPM 5. Calculated Load Value 6. Coolant Temperature 7. Fuel System Status 8. Vehicle Speed 9. Short Term Fuel Trim 10. Long Term Fuel Trim 11. Intake Manifold Pressure 12. Timing Advance 13. Intake Air Temperature 14. Air Flow Rate 15. Absolute Throttle Position 16. Oxygen sensor voltages/associated short term fuel trims 17. Fuel System status 18. Fuel Pressure Compatibility: Works on almost OBDII Vehicles (1996 onwards in USA) and EOBD vehicles Important note: For your vehicle to be OBD II compliant it must have a 16-pin data link connector (DLC) under the dash and the vehicle emission control information label must state that the vehicle is OBD II compliant. Note: You need to use with an OBDII App which are availble on app store Packing List: A. 1 x EOBD / OBD2 Bluetooth Diagnostic Interface B. 1 x CD",
+      "price": "3,900.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00057.png"
+    },
+    {
+      "id": "00058",
+      "name": "Delphi Metals - DS150E + Bluetooth Full System Tool For Cars & Trucks",
+      "description": "This is the best value for money multi-platform advanced diagnostics tool for all vehicle systems you will find! The Delphi with Bluetooth DS range of diagnostic testers have unbeatable software with over 27,000 vehicle systems on over 45 vehicle manufacturers Functions: 1. Read & Erase Fault Codes for all systems: -Petrol & Diesel Engine Management, ABS, Instrument panel, Climate control, Gearbox, Immobiliser, SRS, Multifunction (Central Body, Central Locking, Convenience Systems, Chassis, Infotainment, Lights, Navigation, Seats, TPMS etc -Vehicle Specific). 2. Look at Live Data, graphing and saving of live data for later viewing. 3. ECU Coding / Parameter Adjustments / Component Configuration (initialization of new components, particulate filter regeneration, Diesel Injector coding, TPMS etc). 4. Intelligent System Scan, complete scan of all ECU / ECMs on vehicle platform, configurable by system. 5. Full Vehicle Information tree allowing vehicle specific check of OBD functionality without being connected to a vehicle. 6. Service Light Reset and Service Interval Reset 7. Diesel Injector coding FLIGHT RECORDER. With the flight recorder function, you can record parameters in real time while you are driving a vehicle. During recording, you can, with a press of a button, highlight the specific error so that you can investigate the detected error at a later time. DS150 is equipped with built-in memory thus removing the need to bring a computer. Memory card not included in package. CHASSIS NUMBER VIN. In our CARS software, we have a smart function that allows you to read out the chassis number from the vehicle that you would like to diagnose. This ensures that the right model and year is selected automatically. In addition, engine code for vehicles, which are commonly available on the markets, is also selected automatically. INTELLIGENT SYSTEM SCAN (ISS) scans through all the systems in the vehicle and displays the fault codes that are stored in each system. This saves time and you get a quick overview of the actual status of the entire vehicle. When the ISS is complete, you can then select a specific control system to analyse the results further on.",
+      "price": "60,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00058.png"
+    },
+    {
+      "id": "00059",
+      "name": "T-code T300 Auto Key Programmer",
+      "description": "Product Description T300 T-code Automan Auto Key Programmer (No token needed) Version: Latest Version V15.8 Functions: SBB Key Programmer and T300 Key Programmer can do Anti-theft matching. Copy car key without the original key, but need the password.(you can calculate the password by some software); AD900 key programmer and ZED Bull Key Programmer can do car key matching. Copy car key without password, but need the original key. T-code T300 Models coverage: for Acura, for Audi, for Alfa, for Chevrolet, for Citroen, for Daewoo, for Fiat, for G/M, for Honda, for Hyundai, for Isuzu, for Infiniti, for Jaguar, for Kia, for Land Rover, for Lancia, for Lexus, for Lincoln, for Mazda Japan, for Mazda USA, for Mercury, for Mitsubishi, for Nissan, for Peugeot, for Renault, for Rover, for Seat, for Skoda, for Suzuki, for Toyota Japan, for Toyota USA, for Volkswagen and for VW/ for Audi (Pin code reading) . Function introduces of T300 chip key decoder: Use for key programming. Supporting More cars than any other transponder machine . 1. Read the vehicle malfunction code 2. Clear the vehicle malfunction code 3. Read the system data stream 4. Read IMM0/ECU ID 5. Fetch the machinery key code 6. Clear vehicle key memory 7. Program new key 8. Read vehicle key login password 9. Distinguish types of ECU 10. ECU-IMMOBILISER programme 11. Read EKA password 12. Programme new EKA password 13. Programme telecontrol implement Install Steps: VW Transponder key matching with 5 digits Login Code Procedure for adding transponder keys to vehicles with separate Immobilizer box: (Golf 3, Passat B4, Transporter, Lupo, Sharan) 1) Switch ignition ON with new key. 2) Select: Immobilizer -> Login: Enter 5 numbers Login Code (add 0 if you have 4 digits Login Code). For example, if your Login is 1234, enter 1234 -> Save 3) Go to Adaptation 4) Enter 01 in \"Channel Number\" 5) Enter 6) Enter number corresponding to the total number of keys to be matched, The \"Stored Value\" is the number of keys currently matched. For example, Enter 2 -> Save 7) Switch ignition off and remove key 8) Insert next key to ignition and switch ignition on again. Wait 15 sec. Repeat this step with each key until all keys have been matched. 9) Select: Immobilizer -> Login. Enter Login Code. Go to Adaptation 10) Enter 00 in \"Channel Number\" 11) Enter 0 and Save. This will learn ECU with Immobiliser. Procedure for adding transponder keys to vehicles with Immobilizer in the instrument cluster: (Golf 2004, Passat B5, B6 ) 1) Switch ignition ON with new key. 2) Select: Instrument -> Login: Enter 5 numbers Login Code (add 0 if you have 4 digits Login Code).For example, if your Login is 1234, enter 01234 -> Save 3) Go to Adaptation 4) Enter 21 in \"Channel Number\" 5) Enter 6) Enter number corresponding to the total number of keys to be matched. The \"Stored Value\" is the number of keys currently matched. For ex, Enter 2 -> Save 7) Switch ignition off and remove key 8) Insert next key to ignition and switch ignition on again. Wait 15 sec. Repeat this step with each key until all keys have been matched. 9) Select: Immobilizer -> Login. Enter Login Code. Go to Adaptation 10) Enter 00 in \"Channel Number\" 11) Enter 0 and Save. This will learn ECU with Immobiliser..",
+      "price": "65,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00059.png"
+    },
+    {
+      "id": "00060",
+      "name": "Nitro OBD2 Power/Torque Optimization Device For Cars",
+      "description": "Nitro OBD2 makes new map in the car's computer ECU to improve the performance of your car according to your driving habits. When it is plugged into OBD2 connector, Nitro OBD2 receives the information from the car computer ECU. With the received data from ECU, Nitro OBD2 adjusts the boost pressure, quantity of fuel, injection timing and pressure to increase the performance of your car. As you driving much more KM / Mile, it renews the map. Thus it keeps the vehicle's power and torque increasing. To turn back to the car's original settings, just unplug Nitro OBD2 from OBD2 connector. Main Features: Can be plugged into OBD2 connector of your car to increase the performance of your car Receiving the information from the car computer ECU Finding out the hidden power of your car Without damaging the engine and the car computer ECU Causing no negative effects to the car factory setting Working within the tolerance of engine without exceeding manufacturer requirements Nitro OBD2 does not change any of the settings permanently Fit for gasoline cars Compatible with the following cars: - Sold after January 1, 1996 in the USA - Sold after January 1, 2001 in the European Union - With gasoline engine sold after January 1, 2003 Installation and Calibration: 1. Pull the car ignition key. 2. Find OBD2 connector in your car and plug Nitro OBD2. 3. Insert the key in the ignition and turn the key to the first stage. (Do not start the car) 4. Press the reset button for about 5 seconds. After releasing the button, just wait for a while about 30 - 54 second (Nitro OBD2 communicate and connect with ECU). 5. Start the engine. 6. Nitro OBD2 recognize your car and your driving habits, after about 200 km / 150 miles of driving and therefore Nitro OBD2 adjusted to match perfectly to your car's fuel economy. OBD2 Connector Location in Your Car: 1. Driver's side, underneath dashboard, in the area under the steering column 2. Driver's side, underneath dashboard, between the driver-side door and steering column area 3. Driver's side, underneath dashboard, between the steering column area and the center console 4. Driver's side, dashboard instrument / gauge area, between the steering column and center console 5. Driver's side, dashboard instrument / gauge area, between the driver-side door and steering column 6. Center console, vertical surface left of vehicle centerline 7. Center console, vertical surface right of vehicle centerline or on passenger side of center console 8. Center console, horizontal surface in front passenger area up to 35% More Power up to 25% More Torque Package Content NitroOBD2 Chip Tuning Box Interface User Manuel English",
+      "price": "3,050.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00060.png"
+    },
+    {
+      "id": "00061",
+      "name": "Car Brake Fluid Tester Oil Liquid Moisture Water Detection Test Pen",
+      "description": "Description: The tester can be used as a digital brake fluid tester suitable for determinning braker fluid quality Developed for proffessional use in automotive repair shops and in serving Quality is tested and indicated on five LEDs in terms of \"percent of water in the brake fluid Test DOT 3,DOT4,DOT5 brake fluid For universal automotive Material: Plastic Color: Black Size: approx.23*23*155mm How to use: Ready for Brake Fluid Test: Unscrew the brake fluid reservoir, and pull off the cap of the Brake fluid tester. Dip the test probes into the brake fluid up to the plastic rim of the device To Check Fluid Quality: Press the button for power on,green LED will light up. Insert the tester into reservoir for one second then the test will be correctly indicated by LEDs. Repress the button for power off. The tester will automatically power off after about 15 seconds of inactivity Product Labelling Indication: Green: Battery OK, i.e.: No water contained in the Brake Fluid Green / Yellow: Less than 1% of water content in Brake Fluid Green / Yellow / Yellow: Approx. 2% of water content in Brake Fluid Green / Yellow / Yellow / Red: Approx. 3% of water content in Brake Fluid. The Brake Fluid Should be Changed Green / Yellow / Yellow / Red / Red: At least 4% of water content in Brake Fluid.The brake fluid must be Changed Urgently! Extreme Danger!Attention Attention: Replace battery if the green LED not light up any longer after you press power on button Wash the test probe with tap water after every use In case of skin contact with brake fluid,thoroughly wash the affected skin or clothing with water Do not expose brake fluid to the atmosphere for a long time as the fluid is highly hygroscopic! Package includes: 1 x Brake Fluid Test Pen(battery is not included)",
+      "price": "4,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00061.png"
+    },
+    {
+      "id": "00062",
+      "name": "Lexia 3 Peugeot Planet 2000",
+      "description": "Lexia 3 pp2000 works with Citreon and Peugeot and its software help to diagnose all from 1995 until current models. Diagnostics can be performed via OBD-II connector (which can be found close to the steering wheel) or via manufacturer specific connector (only older vehicles, pre-2001). Compared with other universal vehicle scanner equipment that just read fault codes, lexia 3 pps2000 works almost all the functions such as the original dealer diagnostic tool. Lexia 3 pps2000 interface contains K-Line multiplexor, CAN-BUS interfaces and SAE J1850 bus (both PWM and VPW). Read fault codes: Displays all stored and pending fault codes with complete description (e.g. \"Rail pressure - too low pressure\"). Program supports report printing or copy to clipboard. Clear fault codes: This function clears all stored fault codes and other diagnostic information. Read identification Displays complete identification of control unit, e.g. part number, software/hardware version, manufacturer, etc.. Measured Values: Program displays live Data like Engine Speed, Battery voltage, Oxygen Sensor, Coolant Temperature, etc. Values can be displayed in graph, 9 values at once, or full listing (all measured values). Logging to file is also supported, which allows offline analysis. Programming functions/Adaptation: This feature is of great importance in all vehicles because systems like Engine control units, Immobilizers, Airbags, Alarms, Body Control Units, and some others, require you to perform reset or programming procedures after car repair is done, or even configuration after replacing broken Control Unit. Auto-scan (complete car scan/test):Detects all ECUs (electronic control units) installed in car and reads all diagnostic fault codes. Read identification: Display complete identification of control unit, e.g. part number, software/hardware version, manufacturer, etc... Actuator test: Actuator test activates particular actuator (e.g. turn on fuel pump, lock/unlock wheel, lock/unlock doors, cut off fuel, etc..) Package List 1pc Lexia 3 Peugeot Planet 2000 unit with extension OBD2 cable 1pc Short 9pin to USB cable 1pc Long 9pin to USB cable 1pc 16pin to Clip Cable 1pc OBD2 cable 1pc Instruction for Installation and Activation CD for Lexia 3 and Peugeot Planet 2000",
+      "price": "39,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00062.png"
+    },
+    {
+      "id": "00063",
+      "name": "3 In 1 Car LED Voltmeter Digital Thermometer Car Battery Monitor",
+      "description": "Features: 100% Brand new and high quality. Suitable for 12V and 24V battery. Output voltage:5.0V. Maximun output current:2.1A. Dual Color Display: Red+Blue (Color can not be switched) Size: 4.6cm x 8cm Function: 1. Digital thermometer suitable for 12V and 24V battery measuring range:-9~80℃. 2. Simply plug into cigarette socket,instant confirmation of battery voltage,low power consumption high light display. 3. Car-Mounted Charger.",
+      "price": "3,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00063.png"
+    },
+    {
+      "id": "00064",
+      "name": "Autel MD802 Elite All Systems Car Diagnostic Scanner",
+      "description": "Autel MaxiDiag MD802 For All System + DS model: Engine, Transmission, ABS, Airbag +EPB+OIL Service Reset & Electronic modules and support data stream function. MaxiDiag Elite MD802 for ALL system+DS model One tool can do it all-reads and clears trouble codes on either the basic 4 systems ( Engine, Transmission, ABS and airbag ) or all the systems,reads and clears trouble codes on engine, transmission , airbag, and ABS failures,quick Erase feature allows all codes to be cleared with the push of a button,Live data graphing for the ECU,One button Auto-Scan reads codes in ALL modules and displays them on the screen. Autel’ new MaxiDiag Elite Series, the most advanced and multifunctional scan tools powered by its exclusive technology, are designed for car owners, technicians and car dealers to troubleshoot and repair either the basic four systems or all the systems for most of major vehicles on the road today. This new diagnostic platform delivers fast and easy diagnostics at the right price. MD802 Features: 1. Ability to quickly Read and Clear codes in ALL modules for European, Asian, and Domestic vehicles 1996 to the newer version today. 2. One button Auto-Scan reads codes in ALL modules and displays them on the screen 3. Quick Erase feature allows all codes to be cleared with the push of a button 4. Live data graphing for the ECU 5. One tool to do it all. Reads and clears trouble codes on engine, transmission , airbag, and ABS failures 6. Global OBD II coverage (US, Asian, & European) 7. Turns off engine, transmission, ABS, and airbag warning lights for most USA Domestic, Asian, and European vehicles 8. Supports all 10 test modes of the latest J1979 OBD II test specs, including Read Codes,Erase codes, Live Data, Freeze Frame, I/M Readiness, O2 Monitor Test, On-Board Monitor Test, Component Test, and Vehicle Information 9. Enhanced OBD II Mode 6 10. OBD II code tips guide technicians to the root cause of trouble codes faster 11. Data graphing 12. View freeze frame data 13. USB cable included for product updates 14. One year of FREE software updates and upgrades included 15. Prints data via PC-link 16. (1) Year Warranty Vehicle Coverage: Include MD701, MD702, MD703, MD704. Nissan, Infiniti, Toyota, Lexus, Scion, for Honda, Acura, Subaru, Mitsubishi, Suzuki, Isuzu, Hyundai, Kia, Daewoo, Mazda, Holden, Bens, Smart, Sprinter, Maybach, BWM, Mini, VW, Seat, Skoda, for Audi, Opel, Land Rover, Jaguar, Volvo, Porsche, Saab, EU Ford, Vauxhall, Ford , GM, Chrysler, Peugeot, Citroen, Renault, Dacia, Fiat, Abarth, Alfa-Romeo, Maserati, Lancia. Diagnose All Vehicles the MaxiDiag Elite MD802 enables the user to not only get into the enhanced OBD-II system with mode 6 access, live data and graphing, but it also allows car owners,technician, and car dealers to scan the entire car, ALL makes, ALL models, and ALL modules,With the MaxiDiag Elite MD802 the user can read and clear codes in all Powertrain, Chassis, Body, and Information & Communication systems with the push of one button, even a boy can understand it.Making it great for body shops, used car dealers, and the professional repair shops. With its print function, you can easily provide the customer or the insurance agent a complete diagnosis of the vehicle. This new diagnostic platform delivers fast and easy diagnosis at the right price.",
+      "price": "117,500.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00064.png"
+    },
+    {
+      "id": "00065",
+      "name": "Mini VCI For Toyota TIS Techstream V10.30.029 For Toyota, Lexus J2534 Diagnostic Tool",
+      "description": "MINI VCI FOR TOYOTA TIS Diagnostic Cable\r\n\r\nMini-VCI is a high performance diagnostics and reprogramming interface, compatible wit SAEJ2534 (Pass-Thru), provide high speed communication to most of vehicles. Connect to PC with high speed USB 2.0. Mini-VCI can be used with major car factory online diagnostic and ECU reprogramming applications, and support a rich third-party applications.\r\n\r\nSupport Computer System: Window xp,\r\n\r\nSupport Toyota TIS OEM diagnostic software\r\nHigh performance, with ARM CPU inside.\r\nSupport all the diagnostic communication protocols applied on Toyota (after 1996).\r\n\r\nSupported Protocols:\r\n\r\nK-Line ISO 9141\r\nKWP 2000 ISO 14230-4\r\nSAE J1850 PWM\r\nSAE J1850 VPW\r\nCAN 2.0B ISO 11898\r\nCAN ISO 15765-4\r\n\r\nMINI VCI installation instructions\r\n1. Click Setup techstream software -, the next step select the language, follow the prompts to install step by step, after completed, double click techstream icon to open, a box appears, click on the right triangle, select a region, the next step is language options, select one, click Next, wait a moment will be a form, just fill in the form, and then click OK.\r\n \r\n2, Open the software, try to click connected with the vehicle, but will be prompted to register KEY, in fact, is not required, just shut down the software, run the TISKEY program, and then re-open the software, you will not be prompted registered .\r\n \r\n3 After the installation is complete, to install MINI-VCI driver, (MVCI DRIVER FO TOYOTA 1.4.1), Bahrain, open the software, which will become English, you need to make changes to the options, while changes are completed, you can use\r\n\r\nNOTE: This package do not contain Toyota 22pin connector, so it can only do Toyota 16pin cars.\r\n\r\n1. Latest Version: V10.30.029\r\n2. Support for Toyota TIS OEM diagnostic software\r\n3. Cost-effective, the price of product is only one-third of similar foreign products.\r\n4. High performance with ARM CPU inside.\r\n5. High reliability of products using SMD chip, and certified by CE and FCC.\r\n6. Support all the diagnostic communication protocols needed for Toyota (since 1996).",
+      "price": "15,000.00",
+      "instock": "8",
+      "category": "`Automotive Tools & Accessories",
+      "photo": "00065.png"
+    },
+    {
+      "id": "00066",
+      "name": "PH Meter With Automatic Calibration",
+      "description": "Easy to Use: Simply immerse the pH meter electrode in the solution to be tested, readings are quickly display on a large lcd display\r\n\r\nWide Application: Ideal instrument for any aquarium, the fishing industry, swimming pools, spa, school laboratories, food & beverage, drinking water etc.\r\n\r\nAuto Calibrated: Features in-built calibration with 2 buffer powders.Just press a button to finish the calibration. This pH meter is factory calibrated. Users can use it directly.\r\n\r\nFast and Accurate Results: No need to work with those annoying color charts and test strips.Resolution: 0.01 pH, Accuracy: ±0.01 pH\r\n\r\nCompact Portable Design: Pocket fitting pH meter that's also lightweight and compact. Total concealed fit in your bag or pocket for easy, casual carrying.\r\n\r\n \r\n\r\n \r\n\r\nProduct Descriptions                                                                                               \r\n~Key Features~\r\n\r\nDisplay: LCD Digital\r\n\r\nAccuracy: 0.01\r\n\r\nResolution: 0.01\r\n\r\nOperating Temperature: 0~60°C\r\n\r\nMeasuring Range: 0.00~14.00\r\n\r\nProbe Type: Precision glass bulb electrode\r\n\r\nPower Supply:2*1.5V  LR44 Batteries(Not included!!!)\r\n\r\n \r\n\r\nOperation:                                                                                                                 \r\n\r\nStep 1.Remove protective cap.\r\n\r\nStep 2.First rinse the electrode with distilled water and suck it with filter paper.\r\n\r\nStep 3.Turn the meter on by pressing “ON/OFF” key.\r\n\r\nStep 4.Immerse the pH meter electrode in the solution to be tested (should not be over the immersion line).\r\n\r\nStep 5.Stir gently and wait around 30 seconds till the reading stabilizes.\r\n\r\nStep 6.After finishing, clear the electrode with pure water, turn the meter off by pressing “ON/OFF” key.\r\n\r\nStep 7.Always replace the protective cap after use.\r\n\r\n \r\n\r\n \r\n\r\nCalibration：                                                                                                             \r\n\r\n1.Turn on PH meter\r\n\r\n2.Disolve each buffer solution in 250ML of distilled water\r\n\r\n3.Immerse the electrode into the PH 6.86 solution,(under the temperature of 25)\r\n\r\n4.Press the “CAL”(calibration)button for 5 seconds and release\r\n\r\n-Display will start flashing 6.86\r\n\r\n-Wait until the display stops flashing.\r\n\r\nRinse the electrode with distilled water and dry it with filter paper.\r\n\r\n5. Immerse the electrode in PH 4.00 solution,\r\n\r\n-Press“CAL”button for 5 seconds,then press and release immediately second time\r\n\r\n-Reading will start flashing 4.00\r\n\r\n-Wait until display stops flashing\r\n\r\nRinse and dry the electrode with distilled water as before.\r\n\r\n6.Place the meter back to the buffer solution to test calibration.If incorrect,please repeat the calibration\r\n\r\n7.If approximate PH of your test solution is known to be above 7.0,calibrate the meter using 6.86 and 9.18 solution. To do this,please follow the calibration chart,The third step is the calibration method for 9.18 point.\r\n\r\n \r\n\r\n \r\n\r\nPackage Inclusions:                                                                                                 \r\n\r\n1) 1pcs pH Meter\r\n\r\n2) 2 Bags Buffer Powder\r\n\r\n3) Instruction Manual",
+      "price": "8,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools ",
+      "photo": "00066.png"
+    },
+    {
+      "id": "00067",
+      "name": "Digital LCD TDS Meter Water Tester",
+      "description": "Total Dissolved Solids (TDS) meter is an inexpensive and convenient digital tool to instantly check your overall water quality, which will be displayed on the screen in ppm (parts per million). It is a great tool for testing drinking water, water filtration and purification, hydroponics (test your nutrients), aquariums, RO/DI systems, pools and spas, and more.\r\nShows the TDS value instantly after being immersed into liquid\r\n- Hold Function: Freeze the measurement to view it out of the water.\r\n- Auto-off function: the meter shuts off automatically after 6 minutes of non-use to conserve batteries.\r\nBattery non included",
+      "price": "6,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00067.png"
+    },
+    {
+      "id": "00068",
+      "name": "Ph Meter Buffer Solution Powder Set For Quick And Easy Ph Calibration",
+      "description": "Your pH meter is not so fast or accurate anymore? Or you just want more lifetime out of the device?\r\nTired of measuring pH buffer solution for accurate results?\r\nIf you have a RO system, pool, aquarium, spa, excotic fish, you’re a fan of gardening or need to measure drinking water quality, pH testing is something you do on a regular basis. However, constant mixing for accurate liquid solutions is messy and can be a hassle. Put the measuring cup away and opt for pre-measured convenience.\r\nEven most home use ph measuring devices should be taken care of like lab equipment. That’s how you preserve almost lab accuracy for a fraction of the cost !\r\nHealth Metric pH Meter Buffer Solution Powder Set gives you a no hassle option for the exact amount of buffer solution you need for accurate readings. Just mix the powder from each packet with distilled water and you’re good to go.\r\nSpecifications:\r\n✔ 1*4.01 Solution (Potassium Hydrogen Ph thalate)\r\n✔ 1*6.86 Solution (Mixed phosphate)\r\n1*7.0\r\n✔ 1*9.18 Solution (Borax)\r\n1*10.01\r\nBuffer solution powders come in pre-measured individually sealed packets: Simply mix with 250 mL of distilled water for each packet Our individually packaged calibration powder is:\r\n✔ Easy to carry for travel\r\n✔ Has a longer shelf life than liquid solution (1 year versus 3 years)\r\n✔ Are pre-measured for most accurate results\r\nOur pH buffer powder has a shelf life of 3 years and comes with a 2-year manufacturer guarantee. Just be sure to keep the packets sealed and store them in a dry space.",
+      "price": "1,950.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00068.png"
+    },
+    {
+      "id": "00069",
+      "name": "2 In 1 Gardening Tool For Soil PH Meter And Fertlity- Soil Analyser",
+      "description": "Features:\r\nFor outdoor & indoor plants, gardens & grass lawn.\r\nSave water, energy and keep your plants, lawn, flower in top condition.\r\nEasy to use, just insert and read.\r\nNo battery required, simple and convenient to use\r\nSpecifications:\r\nScales:PH,fertility\r\nMeasuring range: PH:0~9\r\nPackage:260x110mm\r\nProbe length:8.5cm\r\nNo need battery\r\nMaterial: plastic",
+      "price": "6,850.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00069.png"
+    },
+    {
+      "id": "00070",
+      "name": "Digital Display Distance Measuring Wheel - Small Wheel",
+      "description": "HIGH-QUALITY, DURABLE CONSTRUCTION. Measuring 12” in diameter with a 3' circumference, this unit boasts a plastic molded wheel for long-lasting strength and use. It features a telescoping handle that is extendable up to 44 inches and collapses to 27 inches for easy carrying and storage in the included soft carrying case. The kickstand is sturdy and all buttons are water-proof and dust proof, ensuring that this unit is built to last.\r\nU.S. AND METRIC MEASURING UNITS. The AdirPro Digital Measuring Wheel measures in units of tenths of feet or meters up to a 9,99.9 foot/meter range, providing the added convenience of calculating mixed measurements on one project if needed.\r\nMULTIPLE APPLICATIONS. Versatile enough to use on a variety of indoor and outdoor projects, this tool is ideal for real estate appraisers, law enforcement, construction or landscaping workers and homeowners alike.\r\nEASY TO USE. The measuring wheel is lightweight and ergonomic, making it portable and easy to use. The handle features a large, digital LCD screen with backlight for easy viewing and the memory can store and recall up to five values. It comes complete with a user guide and a 1-year limited warranty against defects.\r\nCORDLESS OPERATION. The unit runs on two AAA long-life batteries (included in package), so you can operate it cordlessly for up to 30 hours. It also features an auto shut-off when not being used to preserve the life of the batteries.",
+      "price": "30,000.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00070.png"
+    },
+    {
+      "id": "00071",
+      "name": "Digital Lcd Compass Altimeter Barometer Device",
+      "description": "All in one Digital Altimeter, barometer and digital compass device is based on the technology of electronic bearing sensor and barometric sensor for weather forecast function. It is designed for outdoor use and the detachable string makes the digital compass a perfect hand-carry device for various outdoor activities.\r\nKey Features\r\nDigital altimeter possess 5 seconds blue bright LED backlight, It has clock, calendar and thermometer functions.\r\nAltimeter: -700 ~ 9000m / -2300 ~ 29500ft.\r\nHistory Altitude Record: 256 records\r\nBattery: by 2 x AAA batteries (not included)\r\nWhat In the Box\r\n1 x 8 In 1 Digital Altimeter\r\n1 x English Manual\r\n1 x Strap",
+      "price": "13,200.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00071.png"
+    },
+    {
+      "id": "00072",
+      "name": "Remote UTC Controller for AHD TVI CVI Analog Cameras With OSD Function",
+      "description": "Up The Coax (UTC) technology - this new function allows the user to control the camera's OSD settings at the DVR end rather than at the camera end. This is INSTALLATION HEAVEN! The previous technology had an OSD Remote Control attached to the camera wire, which meant the OSD settings could only be controlled at the camera end. This was a real downside to the whole concept as once the camera was installed the user could only make future adjustments to the picture and activate other functions by getting to the camera. As all installers would know this was a real nightmare! Well, the solution is here! Now installers can control ALL UTC enabled cameras with the joy of a SINGLE UTC Controller, YES a single UTC Controller!\r\nThis UTC controller has been upgraded to 3rd Generation. Now, it can support both AHD/TVI/CVI analog HD cameras and CVBS regular analog cameras.\r\nPlease ensure your camera is UTC control supported\r\nPlease ensure your camera supports AHD/CVI/TVI/CVBS signal switch if you need to use the switch function. Operate the UTC controller under AHD mode.\r\nPlease ensure your camera comes with OSD menu. Camera with OSD cable DOES NOT mean the camera supports UTC control. They are different.\r\nAHD (or TVI/CVI) cameras can't display directly to monitor, and must work with AHD (or TVI/CVI) supported DVR to get images.\r\n1x AHD/CVBS UTC Controller",
+      "price": "6,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00072.png"
+    },
+    {
+      "id": "00073",
+      "name": "Ultrasonic Distance Meter 18M",
+      "description": "This is a perfect tool for interior designer, real estate agents or building industry professionals who need to know quickly the measure or area of a room. It can measure distances in a straight line from 0.55m to 18m. This Ultrasonic Distance Meter with laser point technology transmits ultrasonic waves to a point you want to measure.\r\nLaser pointing Aim\r\nFoot/Meter converter to help you convert to the unit you require\r\nAutomatic Off function: Switches off after 60 sec of inactivity\r\nAddition function: Enables you to add multiple measures\r\nPower supply: 1 x 9V alkaline type 6F22 battery (Not available)\r\nAccuracy: +-0.5%\r\nFrequency: 40 kHz\r\nRange: 0.55m to 18m\r\nDimension: 15.5 cm x 7 cm x 4.5 cm (Lenght x Width x Height)\r\nWeight: 0.1kg (Without battery)\r\nAvailable colours will be served randomly\r\nPackage contains:\r\n1 x Ultransonic rangefinder distance measurement meter\r\n1 x English User Manual",
+      "price": "10,320.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00073.png"
+    },
+    {
+      "id": "00074",
+      "name": "Etape16 Digital Tape Measure",
+      "description": "The tape measure has remained virtually unchanged for over 100 years until now. The eTape16 digital tape measure revolutionizes not only the tape measure but also expands its utility as never before envisioned. The large digital display provides easy reading while the advance features are readily accessible. These features include 3 memories, US or metric units, centerline calculation, re-zero and Inside/Outside measurements. In addition to its advanced features, the eTape16 incorporates a sleek modern design. Made of poly carbonate plastic, the eTape16 is made to last in the most rugged of environments. The large digital display provides an easy-to-use traditional measuring tape with digital readouts and functions. As you pull out the measuring tape blade, the measurement displays on screen for easy reading. To save simply tap a button. It also converts measurements quickly from fractions to decimals, or inches to centimeters and calculate midpoints (great for helping to hang a picture). And finally, no need to bend the tape when measuring into a corner—just select the back of the device as the starting point. In addition to its advanced features, the eTape16 incorporates a sleek modern design. Made of polycarbonate plastic, the eTape16 is made to last in the most rugged of environments. Auto shut off when not in use, uses a coin battery 2032 that will last up to 64 hours of continuous usage",
+      "price": "18,000.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00074.png"
+    },
+    {
+      "id": "00075",
+      "name": "Digital Distance Measuring Wheel - Big Wheel",
+      "description": "This digital measuring wheel is a practical measuring tool which can measure distance with accurate and reliable result. With zero clearing function, it is convenient to use. It can switch measuring unit: m or ft.\r\nFeatures:\r\nUseful measuring wheel which can measure distance with accurate and reliable result.\r\nEasy to use, just simply walking a straight line and it will record the distance automatically.\r\nDigital display with backlight, easy to read measuring data at night.\r\nIt can switch measuring unit: m or ft.\r\nIt can store 5 groups of measuring record.\r\nWith zero clearing function.\r\nWith a kickstand, it can stop and hold the wheel when you stop operating.\r\nWith a storage bag, convenient to carry.\r\nTelescopic pole can be stretch to 97cm.\r\nHigh quality and large wheel can move smoothly.\r\nSpecifications:\r\nMaterial: Plastic\r\nMax. Measurement: 99999.9m / 99999.9ft\r\nAccuracy: 0.5%\r\nResolution: 0.1m\r\nPower Supply: 2 * 1.5V AAA Batteries(not included)\r\nWheel Diameter: 31.8cm\r\nItem Length: 75-97cm\r\nItem Weight: 928g / 32.68oz\r\nPackage Size: 75 * 33 * 8.5cm / 29.53 * 12.99 * 3.35in\r\nPackage Weight: 1599g / 56.40oz\r\nPackage List:\r\n1 * Measuring Wheel",
+      "price": "32,000.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00075.png"
+    },
+    {
+      "id": "00076",
+      "name": "Digital LCD Smart Anemometer For Wind Speed & Temperature Gauge",
+      "description": "Easily measure the wind speed of any given location and the ambient temperature. Ideal for determining if the average wind speed in your location is greater than or equal to the cut-in speed of the wind generator/turbine you intend to install. The cut-in speed is the minimum speed required by a wind generator to generate current.\r\nIt is an ideal tool for windsurfing, sailing and kite flying. You can also use it for industrial and home purposes such as measuring speed and temperature of CPU computer fans, air-conditioners, airflow over the roof or walls.\r\nIt is also used for carrying out EIA (Environmental impact Assessment) studies and other environmental parameters.\r\nMini Digital Anemometer\r\nAir Velocity & Temperature Measurement (Comes with Thermometer Feature)\r\nMax/Average/Current air velocity measurement\r\nTemperature unit selection\r\nWind Speed Range/Unit Available:0 - 30 m/s, 0 - 5860 Ft/Min, 0 - 55 Knots, 0 - 90 Km/Hr, 0 - 60 Mph\r\nFive units of air velocity: M/s, Km/h, ft/min, Knots, mph\r\nBeaufort scale\r\nBacklight display\r\nManual/Auto power shut off\r\nWind chill indication\r\nLow battery indication\r\nPowered By (1) CR2032 Battery",
+      "price": "9,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00076.png"
+    },
+    {
+      "id": "00077",
+      "name": "Multipurpose Laser Level Aligner Bubbles Ruler 8ft Tape.",
+      "description": "The first function: laser level can measure whether flat or uneven paintings, etc., LV03 laser level can play three kinds of lines: a word line, cross line combined firm line (also known as moldings).\r\nThe second function: horizontal bead on laser level, to measure whether the horizontal level, LV03 Laser Level measuring more than a 45 degree angle drops\r\nThe third function: laser level comes with ring-foot (2.5 m, with inch scale).\r\nThe fourth function: LV03 laser level on the edge of the scale (15cm, 6 inches)\r\nAnother function of iron absorption can be added in the bottom of the aluminum laser level\r\nNew Laser Level Horizon Vertical Measure Tape 8FT Aligner\r\nHang shelves and cabinets, tiles and picture frames with accuracy\r\nProjects horizontal or vertical laser light beam\r\nLocking 8-foot measuring tape.\r\nStandard and metric rulers\r\nIdeal For Any Job That Requires A Straight Line Or Accurate Measurement.\r\nUse this Multipurpose Laser Level for hanging pictures, installing shelving,\r\nlaying flooring, hanging wallpaper and more.\r\nLaser light has an on/off power switch.\r\nLaser max output: less than 0.5mW\r\nPowered by 3*AG13 button cell battery (Not included\r\nkeep the laser level away from water ,dust and sunlight",
+      "price": "6,400.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00077.png"
+    },
+    {
+      "id": "00078",
+      "name": "Pcbased USB Digital Storage Oscilloscope - 20mhz Bdwdth Hantek-ht6022b",
+      "description": "This product has excellent build quality and implements extruded aluminum casing and rubber shock bumpers at each end. Features found in high end test equipment. It ships with USB cable , 2 oscilloscope probes and a disk containing containing the instruction manual The disk also contains the software for the oscilloscope\r\nSpecifications:\r\nChannels: 2\r\nBandwidth: 20MHz\r\nInput Impandence: 1MΩ 25pF\r\nMax. Sample rate:48MS/s\r\nVertical resolution: 8Bit\r\nGain range: 20mV-5V, 8Steps\r\nDC accuracy: ±3%\r\nTimebase range: 1ns-9000s, 39 Steps\r\nVertical adjustable: Yes\r\nInput protection: Diode clamping\r\nX-Y: Yes\r\nTrigger Mode: Auto, Normal and Single\r\nTrigger Slope: +/-\r\nTrigger level adjustable: Yes\r\nTrigger Type: Rising edge, falling edge\r\nTrigger Source: CH1, CH2\r\nSampling selection: Yes\r\nWaveform Display: port/line, waveform average, persistence, intensity\r\nNetwork: Open/Close\r\nVertical mode: CH1, CH2, Dual, ADD\r\nCursor measurement: Yes\r\nMath: FFT, addition, subtraction, multiplication, division.\r\nCursor: Frequency, Voltage\r\nDimensions: 205mm (L) x120mm (W) x35mm (H)\r\nAccessories: Software CD, probes, manual, USB cord\r\nOperating systems supported: Windows 7, Windows NT, Windows 2000,Windows XP, Vista\r\nFeatures\r\nThe unit conforms to the standard USBXITM interface, and can easily insert into a USBXITM housing allowing the user to build up a combination instrument.\r\nUSB2.0 interface, no external power source required, easy to use.\r\nSuitable for notebook computers, or product line maintenance.\r\nHigh performance, 48MS/s real-time sampling, 20MHz Bandwidth.\r\n23 measurement functions, PASS/FAIL Check, be suitable for technical application> Waveform average, persistence, intensity,invert,addition, subtraction, multiplication, division,X-Y plot.\r\nSaves waveform in the following: text file, jpg/bmp graphic file, MS excel/word file. FFT\r\nOne computer can connect many DSO, to easily extend channels\r\nPackage\r\n1 x Professional Hantek 6022BE oscilloscope\r\n2 x Oscilloscope probe\r\n1 x USB Cable\r\n1 x CD (including manual etc.",
+      "price": "55,000.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00078.png"
+    },
+    {
+      "id": "00079",
+      "name": "Precision Vernier Caliper - Portable Tool 0-150mm Measuring Range",
+      "description": "Made of hardened stainless steel, This Electronic Digital Caliper can be easily and accurately measured linear capacities measuring system. With a small locking thumb screw which locks the jaws in place and Handy conversion chart at the back, it is an ideal tool for a broad range of industrial and automotive applications\r\nSpecifications:\r\nMeasuring range: 0–150 mm/ 0–6 inch.\r\nResolution: 0.01mm/ 0.0005 in.\r\nRepeatability: 0.01mm/ 0.0005 in.\r\nAccuracy: + 0.02 mm/ 0.001 in.\r\nElectronic Digital Caliper\r\nMade of hardened stainless steel\r\nInternal, external and height dimensions can be easily and accurately measured\r\nLinear capacitive measuring system\r\nZero setting in any position\r\nWith a small locking thumb screw which locks the jaws in place\r\nBase measuring function: Inside, outside, depth and step measuring\r\nWith easy to read large LCD display\r\nHandy conversion chart at the back\r\nAn ideal tool for a broad range of industrial and automotive applications",
+      "price": "9,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00079.png"
+    },
+    {
+      "id": "00080",
+      "name": "360 Degree Digital Inclinometer Protractor",
+      "description": "Features:\r\n1) Direction symbol\r\n2) Upright LCD display\r\n3) Backlight and buzzer function\r\n4) Degree and Percentage of slope in conversion\r\n5) Absolute and relative measurements conversion \r\n6) Data hold\r\n\r\nSpecification:\r\nMeasuring Range: 4 x 90° \r\nResolution: 0.1°/ 0.01% \r\nRepeatability: ±0.1° \r\nOperating Temperature: 0 ~ 40°C \r\nOperating Humidity: 40 ~ 80% \r\nPower Supply: 1 x 9V 6F22 Battery(Not included)\r\nSize: 160x53x31mm(LxWxH)\r\nQuantity: 1 Pc\r\n　\r\nNote:\r\nPlease allow 1-3mm error due to manual measurement. pls make sure you do not mind before you bid\r\nDue to the difference between different monitors, the picture may not reflect the actual color of the item. Thank you!",
+      "price": "13,500.00",
+      "instock": "10",
+      "category": "Diagnostic, Testing & Measuring Tools",
+      "photo": "00080.png"
+    },
+    {
+      "id": "00081",
+      "name": "3 In 1 PH Tester - Soil Water Moisture & Light Test Meter",
+      "description": "This 3- in-1 soil moisture meter is designed to better know the condition of your plant, monitor the soil moisture, help you control the soil ph acidity and see if plant gets sufficient sunlight to make plants grow healthier.\r\n\r\nSpecifications:\r\n\r\nMoisture Range: 1-10 (1-3 Dry, 4-7 Nor, 8-10 Wet).\r\nRelative Light: 0-2000 lux (0-200 Low, 200-500 Low+, 500-1000 Nor, 1000-2000 Hgh).\r\npH Range: 3.5-8 pH (3.5-6.5 Acid, 7-8 Alkaline).\r\nProduct Size: 11.2 x 2.0 x 1.3 inches.\r\nProbe length: 7.9 inches.\r\nDistance between probes: 0.5 inch.\r\nCopper probe diameter: 5 mm.\r\nAluminum probe diameter: 5 mm.\r\nColor: Green\r\nPackage weight: 2 oz/56g; 13*4*1.7 in\r\n\r\nHow to use:\r\n\r\nStep 1: toggle switch to moisture/ pH/ light position.\r\nStep 2: Stick the probe into the soil about 2-4 inches.\r\nStep 3: Adjust the position of the probe until the pointer on the dial swing slightly.\r\nStep 4: After 10 minutes, read the moisture/pH/light level in the dial.\r\nStep 5: Remove probe from soil and wipe clean after each use.\r\n\r\nPlease Note:\r\n\r\n1. Do not insert into very hard soil or touch hard objects when you insert it in the soil.\r\n2. Do not use it to test pure water or other liquid, electrolytic response index will be affected, it can only be used to measure the soil.\r\n3. Please wipe and clean the probe after each use.",
+      "price": "4,400.00",
+      "instock": "10",
+      "category": "Gardening Tool",
+      "photo": "00081.png"
+    },
+    {
+      "id": "00082",
+      "name": "Autel Maxiscan 509 Diagnostic Scanner",
+      "description": "The MaxiScan®MS509 OBD II/EOBD Scanner supports all nine OBD II test modes on all OBD II compliant vehicles to enable technicians to accurately diagnose complex problems. This ergonomic scan tool, though sophisticated yet easy-to-use, makes your vehicle service experience much more pleasant!\r\nWork on all 1996 and later OBD II compliant US, European and Asian vehicles\r\nEasily determine the cause of the Check Engine Light ( MIL)\r\nRetrieve generic (P0, P2, P3, and U0), manufacturer specific(P1, P3, and U1) codes and pending codes\r\nTurn off Check Engine Light (MIL), clear codes and reset monitors\r\nView freeze frame data\r\nDisplay monitor and I/M readiness status (emissions)\r\nRead live PCM datastream\r\nDisplay live O2 sensor test data\r\nGraph data (1996 and newer)\r\nRead, store & playback live sensor data\r\nMemory/battery backup for off-vehicle data review and analysis\r\nMultilingual menu and DTC definitions- English, Spanish, French and German, etc\r\nPerform modules present test\r\nRetrieve vehicle information (VIN, CIN and CVN)\r\nSupport CAN (Controller Area Network) and all other current OBD II protocols\r\nSoftware upgradeable via optional upgrade kit\r\nPrint data via PC",
+      "price": "22,200.00",
+      "instock": "10",
+      "category": "Automotive Tools & Accessories",
+      "photo": "00082.png"
+    },
+    {
+      "id": "00083",
+      "name": "Digital Thermometer And Hygrometer",
+      "description": "Thermo hygrometers are useful for measurement of humidity. Humidity is a representation of the concentration of water vapour in the air where the value is shown as a percent. Thermo hygrometers have sensors which measure humidity of the air and temperature of the air. Both values will be shown as a digital representation and converted into the desired unit. The result will then be shown via display. Thermo hygrometers are versatile in that they can take measurements, store them to memory and transfer data to computer for further detailed analysis. Most of our instruments are contactless working which enables non-destructive measurements. Without this option you would not be able to analyze your data over such a long period of time.\r\nThermo hygrometers are very useful in evaluating damage in a warehouse, cold rooms and Datacentres. These need to be at an exact temperature, with a specific level of humidity. A difference in temperature and / or humidity would mean that the device/stored products get damaged or even destroyed. Such ware housing facilities are for example those ones that offer pharmaceutical drugs, flowers and food. A change in temperature can affect the stored drug, Foul food would mean additional payment for a reseller of groceries and dried flower mean that the seller of those ones will be unable to sell them. With the high accuracy of our products such businessmen will easily be able to determine the surroundings of such goods and control parameters like temperature and humidity in a better way.\r\nUsing Thermo-Hygrometer devices you can measure relative humidity, determine the source of damp and moisture problems and indicate whether moisture reduction and control strategies are effective. Hygrometers are used to measure moisture vapour within the air, also known as the humidity level, this is measured on a scale of 0 to 100% relative humidity with 100% being saturated air. The digital Thermo-Hygrometers that can show minimum, maximum and current values of humidity. Dew Point is another value the device show, it is a measure of the point when the water vapor in the air condenses so much that it is condensed into liquid water this is the saturation point for the air at that specific temperature.\r\nTherefore, Thermo-hygrometer can also be applied in private households. In househoulds, the temperature and humidity or moisture content is also important. Pleasant air temperature and air humidity is only one example. The optimal environmental conditions for human-beings are around 20 °C and 50-65 % air humidity. In addition to that, mould growth starts at 70% air humidity. It is very difficult to control the environmental conditions in a living or bathroom as well as in a cellar. With the help of thermo-hygrometer devices, these conditions can easily be displayed and moreover controlled. If the air humidity is too high, you can for example open a window. If it is too low, an air humidifier can be used. Thermo-Hygrometers can be used to measure moisture content in various materials including wood, concrete, plaster and bricks.",
+      "price": "4,350.00",
+      "instock": "10",
+      "category": "Measuring & Layout Tools",
+      "photo": "00083.png"
+    },
+    {
+      "id": "00084",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "00084.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    },
+    {
+      "id": "0002",
+      "name": "Waterproof GPS Car Tracker - ST-901 with ACC detect igintion",
+      "description": "This is a mini Waterproof Builtin Battery GSM GPS tracker for Car motorcycle vehicle tracking device with online tracking system software.",
+      "price": "14,600.00",
+      "instock": "10",
+      "category": "Car Alarm System & Security",
+      "photo": "0002.png"
+    }
+  ]
+}
