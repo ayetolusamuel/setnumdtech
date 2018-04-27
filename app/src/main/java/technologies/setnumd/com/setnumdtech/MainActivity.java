@@ -57,10 +57,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        if (productsList != null){
 
-
-        }
         ProductAdapter productAdapter = new ProductAdapter(getApplicationContext(),productsList);
             recyclerView.setAdapter(productAdapter);
             recyclerView.setLayoutManager(new LinearLayoutManager(this));
@@ -133,4 +130,6 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+
 }
