@@ -41,7 +41,7 @@ public class Utils {
     public static final String ATTRIBUTE_SCHEMA = "http://schemas.android.com/apk/lib/technologies.setnumd.com.setnumdtech.util";
 
 
-    private static String CURRENT_TAG = null;
+
     private static Map<String, Typeface> TYPEFACE = new HashMap<String, Typeface>();
 
 
