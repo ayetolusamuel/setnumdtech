@@ -38,7 +38,13 @@ public class Utils {
 
     public static final String ATTRIBUTE_TTF_KEY = "ttf_name";
 
+    public static final String ATTRIBUTE_SCHEMA = "http://schemas.android.com/apk/lib/technologies.setnumd.com.setnumdtech.util";
+
+
+    private static String CURRENT_TAG = null;
     private static Map<String, Typeface> TYPEFACE = new HashMap<String, Typeface>();
+
+
 
 
     public static Typeface getFonts(Context context, String fontName) {
