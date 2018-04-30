@@ -55,14 +55,13 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         progressDialog.setMessage("Authenticating...");
         progressDialog.show();
 
-        // TODO: Implement your own authentication logic here.
 
         new android.os.Handler().postDelayed(
                 new Runnable() {
                     public void run() {
                         // On complete call either onLoginSuccess or onLoginFailed
                         onLoginSuccess();
-                        // onLoginFailed();
+
                         progressDialog.dismiss();
                     }
                 }, 3000);
@@ -86,17 +85,17 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
             public void done(ParseUser user, ParseException e) {
 
                 if (e == null && user != null){
-                    //  hideProgressBar();
+
                     Toast.makeText(LoginActivity.this, "Login Succesful", Toast.LENGTH_SHORT).show();
                     showUserList();
 
                 }else{
-                    //e.printStackTrace();
+
                   Toast.makeText(LoginActivity.this,e.getMessage(),Toast.LENGTH_SHORT).show();
                 }
             }
         });
-       // finish();
+
     }
 
     public void onLoginFailed() {
@@ -128,48 +127,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         return valid;
     }
 
-   /* public void signuClick(View view) {
 
-        String username = editemail.getText().toString();
-        String password = editPassword.getText().toString();
-        if (username.matches("") || password.matches("")){
-            Toast.makeText(LoginActivity.this,"A username and password are Required",Toast.LENGTH_SHORT).show();
-        }
-        else {
-            if (isSignUpActive) {
-                ParseUser user = new ParseUser();
-                user.setUsername(username);
-                user.setPassword(password);
-                user.signUpInBackground(new SignUpCallback() {
-                    @Override
-                    public void done(ParseException e) {
-                        if (e == null) {
-                            Toast.makeText(LoginActivity.this,"Signup Successful",Toast.LENGTH_SHORT).show();
-                            showUserList();
-                        } else {
-                            Toast.makeText(LoginActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
-                        }
-                    }
-                });
-            } else {
-                ParseUser.logInInBackground(username, password, new LogInCallback() {
-                    @Override
-                    public void done(ParseUser user, ParseException e) {
-                        showProgressbar();
-                        if (e == null && user != null){
-                           hideProgressBar();
-                            Toast.makeText(LoginActivity.this, "Login Succesful", Toast.LENGTH_SHORT).show();
-                            showUserList();
-
-                        }else{
-                            Toast.makeText(LoginActivity.this,e.getMessage(),Toast.LENGTH_SHORT).show();
-                        }
-                    }
-                });
-
-            }
-        }
-    }*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

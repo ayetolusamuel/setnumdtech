@@ -21,6 +21,7 @@ public class DetailsActivity extends AppCompatActivity {
     private TextView idTextView, nameTextview, categoryTextView, priceTextView, descriptionTextView, instockTextView;
     private ImageView imageView;
     private Context context;
+    private static final String CONSTANT_ID = "SET";
 
 
     @Override
@@ -47,7 +48,7 @@ public class DetailsActivity extends AppCompatActivity {
         String image = intent.getStringExtra("image");
 
 
-        idTextView.setText("SET" + id);
+        idTextView.setText(CONSTANT_ID+id);
         nameTextview.setText(name);
         categoryTextView.setText(category);
         descriptionTextView.setText(description);

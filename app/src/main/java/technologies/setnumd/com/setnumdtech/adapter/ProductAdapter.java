@@ -38,9 +38,6 @@ public class ProductAdapter   extends RecyclerView.Adapter<ProductAdapter.ViewHo
     private final static String ID_CONSTANT = "SET";
 
 
-    //private final View.OnClickListener mOnClickListener = new MyOnClickListener();
-
-
 
 
     public ProductAdapter(Context context, ArrayList<Products> productsArrayList) {
